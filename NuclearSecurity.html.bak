@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Undergraduate Research Projects</title>
+    <title>Nuclear Security</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -18,7 +18,7 @@
               <tbody>
                 <tr>
                   <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
-                    <h1 style="width: 689px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 689px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
@@ -58,23 +58,42 @@
       <div id="site_content">
         <div id="sidebar_container">
           <div class="sidebar">
-            <h3><a title="Research" href="Research.html">Research Fields:</a></h3>
-            <p><a title="Research" href="Research.html">Radiation Transport</a></p>
-            <p><a title="Research" href="Research.html"><span style="color: #555555;">Radiation
-                  Biology</span></a></p>
-            <p><a title="Research" href="Research.html">Environmental Radiation
-                Protection</a></p>
-            <p><a title="Research" href="Research.html">Nuclear Security</a></p>
+            <h3>Research Fields:</h3>
+            <p><a title="Radiation Transport" href="RadiationTransport.html">Radiation
+                Transport</a></p>
+            <p><a title="Radiation Biology" href="RadiationBiologyResearch.html"><span
+                  style="color: #555555;">Radiation Biology</span></a></p>
+            <p><a title="Environmental Radiation Protection" href="EnvironmentalRadiationProtection.html">Environmental
+                Radiation Protection</a></p>
+            <p><a title="Nuclear Security" href="NuclearSecurity.html">Nuclear
+                Security</a></p>
             <h4><a title="Publications" href="publications.html">List of
                 Publications</a></h4>
-            <h4><a title="Undergraduate Projects" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/UndergraduateProjects.html">Undergraduate
+            <h4><a title="Undergraduate Projects" href="UndergraduateProjects.html">Undergraduate
                 Research Projects</a></h4>
           </div>
         </div>
         <div class="content">
-          <h1>Undergraduate Research Projects</h1>
+          <h1>Nuclear Security</h1>
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                face="Georgia, Times New Roman, Times, serif"><br>
+                face="Georgia, Times New Roman, Times, serif">
+                <p> </p>
+                <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Modeling
+                      the Efficacy of Nuclear Security Regimes</span></span></h2>
+              </font></font></font><img style="width: 636px; height: 248px;" title="stage"
+            alt="" src="picturesnick/3d.PNG"><br>
+          <br>
+          <p style="text-align: justify;"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                  It is currently difficult to determine how effective the
+                  security is at a nuclear power plant, relying on expensive
+                  live exercises. Producing a computer model of the plant and
+                  its security allows testing, validation and optimization in
+                  between live exercises to further improve security.</font></font></font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                  face="Georgia, Times New Roman, Times, serif"> </font></font></font></p>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif">
                 <p><br>
                 </p>
                 <p><br>

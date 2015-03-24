@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -77,38 +77,43 @@
           <br>
         </div>
         <div class="content">
-          <h1>Health Physics</h1>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Health
-                physics is the profession dedicated to the protection of humans
-                and their environment from the </font>harmful effects of
-              radiation while providing for its beneficial applications.&nbsp;
-              Health physicists (HPs) are found in universities, hospitals,
-              national laboratories, regulatory agencies, and industry. The
-              range of responsibilities of HPs is great.&nbsp; One observes HPs
-              doing anything from applied work involving periodic monitoring of
-              radiation fields and radioactive materials in the occupational
-              environment or the outdoors surrounding nuclear facilities, to
-              advanced cutting-edge research considering, for instance, the
-              patterns of energy deposition in human tissue produced by
-              different types of radiation or radiation-producing machines. <br>
+          <h1>Industrial Irradiation</h1>
+          <p> <font face="Georgia, Times New Roman, Times, serif"><br>
             </font></p>
-          <div style="text-align: center;"><img title="hp" alt="" src="images/health1.gif"></div>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              The field incorporates radioecology, dosimetry, instrumentation,
-              radiation physics, radiobiology, radiochemistry, and many more
-              sub-disciplines.&nbsp; If you are the kind of individual who
-              enjoys studying a broad range of disciplines and applying the
-              knowledge from many different areas to solve specific problems
-              then the profession of health physics may suit you fine. The
-              demand for entry-level HPs presently is very good. It appears that
-              this very high demand will persist for some time into the
-              future.&nbsp; Starting salaries are competitive with many
-              engineering disciplines.&nbsp; That science devoted to
-              recognition, evaluation, and control of all health hazards from
-              ionizing radiation.</font> </p>
-          <br>
+          <p><font face="Georgia, Times New Roman, Times, serif">There are a
+              great many industries using radiation in the production, quality
+              assurance, and sterilization of products.</font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif">Radiation is
+              becoming a common tool in the production of synthetic materials
+              and natural rubber products (hardening and polymer </font><font face="Georgia, Times New Roman, Times, serif">cross-linking).&nbsp;
+              The radiation is used for annealing and polymerization without the
+              negative effects of heat processing.&nbsp; Most wiring in your
+              car's engine compartment have been through some sort of radiation
+              processing to make them more heat resistant.&nbsp; </font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif"> Radiation is
+              used to test spacecraft electronics for space environments.&nbsp;
+              In addition, radiation is used to "harden" spacecraft
+              semiconductors to be more radiation tolerant.&nbsp; In fact,
+              without radiation testing and hardening, most satellites would not
+              currently be operating now.</font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif">Various gauges
+              using radioactive materials are used to measure quantities such as
+              the thickness of materials, the flow rate of liquids, and the
+              level of material in tanks.&nbsp; Radiation is also used to </font><font
+              face="Georgia, Times New Roman, Times, serif">check the quality of
+              metals and welds (see Non-De</font><font face="Georgia, Times New Roman, Times, serif">structive
+              Testing) </font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif">Radiation is
+              used to cold pasteurize food (see Food Irradiation) and sterilize
+              medical products. It is a very cost-effective way to destroy
+              bacteria and viruses in products intended for people with
+              suppressed immune systems.</font> </p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">The
+              other common use of industrial irradiation is for inspection of
+              packages. For example, every time you go to the airport, your
+              luggage is interrogated with radiation. The industrial
+              applications are everywhere!</font></p>
+          <font face="Georgia, Times New Roman, Times, serif"><em> </em></font>
         </div>
       </div>
       <footer>

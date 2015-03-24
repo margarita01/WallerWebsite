@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -74,41 +74,60 @@
               <li><a href="Miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </div>
-          <br>
+          <img style="width: 231px; height: 152px;" title="fuel" alt="" src="images/benefi1.jpg"><br>
         </div>
         <div class="content">
-          <h1>Health Physics</h1>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Health
-                physics is the profession dedicated to the protection of humans
-                and their environment from the </font>harmful effects of
-              radiation while providing for its beneficial applications.&nbsp;
-              Health physicists (HPs) are found in universities, hospitals,
-              national laboratories, regulatory agencies, and industry. The
-              range of responsibilities of HPs is great.&nbsp; One observes HPs
-              doing anything from applied work involving periodic monitoring of
-              radiation fields and radioactive materials in the occupational
-              environment or the outdoors surrounding nuclear facilities, to
-              advanced cutting-edge research considering, for instance, the
-              patterns of energy deposition in human tissue produced by
-              different types of radiation or radiation-producing machines. <br>
-            </font></p>
-          <div style="text-align: center;"><img title="hp" alt="" src="images/health1.gif"></div>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              The field incorporates radioecology, dosimetry, instrumentation,
-              radiation physics, radiobiology, radiochemistry, and many more
-              sub-disciplines.&nbsp; If you are the kind of individual who
-              enjoys studying a broad range of disciplines and applying the
-              knowledge from many different areas to solve specific problems
-              then the profession of health physics may suit you fine. The
-              demand for entry-level HPs presently is very good. It appears that
-              this very high demand will persist for some time into the
-              future.&nbsp; Starting salaries are competitive with many
-              engineering disciplines.&nbsp; That science devoted to
-              recognition, evaluation, and control of all health hazards from
-              ionizing radiation.</font> </p>
+          <h1>Nuclear Fuel Cycle</h1>
           <br>
+          <br>
+          <p><font face="Georgia, Times New Roman, Times, serif">Like coal, oil
+              and natural gas, uranium is an energy resource which must be
+              processed through a series of steps to produce an efficient fuel
+              for use in the generation of electricity.&nbsp; Each fuel has its
+              own distinctive fuel cycle: however the uranium or nuclear fuel
+              cycle is somewhat more complex than the others.</font></p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">To
+              prepare uranium for use in a nuclear reactor, it undergoes the
+              steps of mining and milling, conversion, enrichment (although not
+              typically in CANDU reactors) and fuel fabrication. These steps
+              make up the "front end" of the nuclear fuel cycle. </font></p>
+          <br>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">
+              After uranium has been used in a reactor to produce electricity it
+              is known as "spent fuel" and may undergo a further series of steps
+              including temporary storage, reprocessing, and recycling before
+              eventual disposal as waste.&nbsp; These later steps are typically
+              known as the "back end" of the fuel cycle. </font></p>
+          <br>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">
+              Most uranium in Canada is currently mined underground (although
+              there can be surface pit mining).&nbsp; The mined uranium ore is
+              sent to a mill which is usually located close to the mine. At the
+              mill the ore is crushed and ground to a fine slurry which is
+              leached in sulfuric acid to allow the separation of uranium from
+              the waste rock. It is then recovered from solution and
+              precipitated as uranium oxide (U308) concentrate, called
+              Yellowcake.</font></p>
+          <br>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">
+              The Yellowcake is refined (in Canada at Blind River, Ontario) to
+              Uranium Trioxide (UO3), and transported to a fuel fabrication
+              plant where it is converted to uranium dioxide (UO2) powder and
+              pressed into small pellets (this happens at <a href="http://www.cameco.com/">Cameco</a>,
+              Port Hope).&nbsp; These pellets are inserted into thin tubes,
+              usually of a zirconium alloy (zircalloy) or stainless steel, to
+              form fuel rods (this happens at <a href="http://www.zircatec.ca/">Zircatec</a>,
+              Port Hope).&nbsp; The rods are then sealed and assembled in
+              clusters to form fuel elements or assemblies for use in the core
+              of the nuclear reactor. </font></p>
+          <br>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">
+              An alternate fuel fabrication pathway is to convert the UO3 to
+              UF6, which can be used to produce enriched fuel.</font></p>
+          <br>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">
+              There is a lot more to the fuel cycle (like what happens when the
+              fuel is used up).</font></p>
         </div>
       </div>
       <footer>

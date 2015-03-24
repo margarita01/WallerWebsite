@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -74,41 +74,40 @@
               <li><a href="Miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </div>
-          <br>
+          <img style="width: 154px; height: 146px;" title="radbi" alt="" src="images/radiat5.gif"><br>
         </div>
         <div class="content">
-          <h1>Health Physics</h1>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Health
-                physics is the profession dedicated to the protection of humans
-                and their environment from the </font>harmful effects of
-              radiation while providing for its beneficial applications.&nbsp;
-              Health physicists (HPs) are found in universities, hospitals,
-              national laboratories, regulatory agencies, and industry. The
-              range of responsibilities of HPs is great.&nbsp; One observes HPs
-              doing anything from applied work involving periodic monitoring of
-              radiation fields and radioactive materials in the occupational
-              environment or the outdoors surrounding nuclear facilities, to
-              advanced cutting-edge research considering, for instance, the
-              patterns of energy deposition in human tissue produced by
-              different types of radiation or radiation-producing machines. <br>
-            </font></p>
-          <div style="text-align: center;"><img title="hp" alt="" src="images/health1.gif"></div>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              The field incorporates radioecology, dosimetry, instrumentation,
-              radiation physics, radiobiology, radiochemistry, and many more
-              sub-disciplines.&nbsp; If you are the kind of individual who
-              enjoys studying a broad range of disciplines and applying the
-              knowledge from many different areas to solve specific problems
-              then the profession of health physics may suit you fine. The
-              demand for entry-level HPs presently is very good. It appears that
-              this very high demand will persist for some time into the
-              future.&nbsp; Starting salaries are competitive with many
-              engineering disciplines.&nbsp; That science devoted to
-              recognition, evaluation, and control of all health hazards from
-              ionizing radiation.</font> </p>
+          <h1>Radiation Biology</h1>
           <br>
+          <br>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Radiation
+              biology is the study of the ways in which radiation affects
+              biological tissue and organisms.&nbsp; </font></p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
+              Early researchers sought reliable ways to predict and measure the
+              effects of radiation on living tissues. This was particularly
+              important in attempts to compare different methods of
+              administration, as in the early saturation vs. fractionation
+              controversy. Throughout the century, radiation biologists have
+              worked in active cooperation with clinicians to refine our
+              knowledge of the varying effects of radiation on the living
+              body.&nbsp; Today both <em>in vitro</em> and <em>in vivo</em>
+              observations have enriched our understanding of these processes,
+              and point to a future which includes cellular and genetic promise
+              in radiation response modifiers and increasing precision in
+              applying radiation to disease. Current trends in radiation biology
+              include studies in radiation hormesis (simply stated: <em>a
+                little radiation may be good for you</em>).</font></p>
+          <p align="justify"><br>
+            <font face="Georgia, Times New Roman, Times, serif">Some of the
+              first radiation biology observations were by Bergonie and
+              Tribondeau in 1906. These French researchers' work on rodent
+              testes produced a widely promulgated "law", stated as: s<em>ensitivity
+                to radiation varies directly with reproductive capacity and
+                inversely with differentiation (maturity)</em>. Dessauer's seven
+              laws of homogeneous irradiation in 1921 expanded these concepts,
+              further modified by Ancel and Vitemburger in 1925 to include
+              variable times in the appearance of radiation effects. </font></p>
         </div>
       </div>
       <footer>

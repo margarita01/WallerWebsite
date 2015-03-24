@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Undergraduate Research Projects</title>
+    <title>Publications</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -18,7 +18,7 @@
               <tbody>
                 <tr>
                   <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
-                    <h1 style="width: 689px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 689px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
@@ -59,7 +59,7 @@
         <div id="sidebar_container">
           <div class="sidebar">
             <h3><a title="Research" href="Research.html">Research Fields:</a></h3>
-            <p><a title="Research" href="Research.html">Radiation Transport</a></p>
+            <p><a title="Reserch" href="Research.html">Radiation Transport</a></p>
             <p><a title="Research" href="Research.html"><span style="color: #555555;">Radiation
                   Biology</span></a></p>
             <p><a title="Research" href="Research.html">Environmental Radiation
@@ -72,7 +72,7 @@
           </div>
         </div>
         <div class="content">
-          <h1>Undergraduate Research Projects</h1>
+          <h1>Publications</h1>
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                 face="Georgia, Times New Roman, Times, serif"><br>
                 <p><br>

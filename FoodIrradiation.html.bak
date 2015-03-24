@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -77,38 +77,39 @@
           <br>
         </div>
         <div class="content">
-          <h1>Health Physics</h1>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Health
-                physics is the profession dedicated to the protection of humans
-                and their environment from the </font>harmful effects of
-              radiation while providing for its beneficial applications.&nbsp;
-              Health physicists (HPs) are found in universities, hospitals,
-              national laboratories, regulatory agencies, and industry. The
-              range of responsibilities of HPs is great.&nbsp; One observes HPs
-              doing anything from applied work involving periodic monitoring of
-              radiation fields and radioactive materials in the occupational
-              environment or the outdoors surrounding nuclear facilities, to
-              advanced cutting-edge research considering, for instance, the
-              patterns of energy deposition in human tissue produced by
-              different types of radiation or radiation-producing machines. <br>
-            </font></p>
-          <div style="text-align: center;"><img title="hp" alt="" src="images/health1.gif"></div>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              The field incorporates radioecology, dosimetry, instrumentation,
-              radiation physics, radiobiology, radiochemistry, and many more
-              sub-disciplines.&nbsp; If you are the kind of individual who
-              enjoys studying a broad range of disciplines and applying the
-              knowledge from many different areas to solve specific problems
-              then the profession of health physics may suit you fine. The
-              demand for entry-level HPs presently is very good. It appears that
-              this very high demand will persist for some time into the
-              future.&nbsp; Starting salaries are competitive with many
-              engineering disciplines.&nbsp; That science devoted to
-              recognition, evaluation, and control of all health hazards from
-              ionizing radiation.</font> </p>
+          <h1>Food Irradiation</h1>
           <br>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Exposing
+              food to high-energy rays (gamma rays, x-rays, or electron beams)
+              in order to kill harmful bacteria, extend shelf life, or control
+              insect pests.&nbsp; It is sometimes referred to as cold
+              pasteurization or electronic pasteurization.</font></p>
+          <div style="text-align: center;"><img style="width: 132px; height: 129px;"
+              title="logo" alt="" src="images/radura.gif"></div>
+          <p>
+          </p>
+          <p><font face="Georgia, Times New Roman, Times, serif"> There are only
+              a few irradiation facilities that process food products in Canada,
+              and of those, only one does a large quantity. Mostly the
+              irradiation facilities in Canada process medical supplies and
+              personal care goods. The <a href="http://www.nordion.com/gce/">Nordion
+                Gamma Centre of Excellence</a>, managed by <a href="http://www.mds.nordion.com">MDS
+                Nordion</a> processes food (mostly dry ingredients), and might
+              be considered the only large scale food irradiation facility in
+              Canada.&nbsp; There is an irradiator in Port Coquitlam (British
+              Columbia) owned by <a href="http://www.iotron.com">Iotron</a>
+              that is capable of irradiating foodstuffs.&nbsp; There is an
+              irradiator in Whitby (Ontario) operated by <a href="http://www.steris.com/">Steris</a>
+              , which typically processes medical supplies. There is also an
+              irradiator in Peterborough owned by Johnson and Johnson to p</font><font
+              face="Georgia, Times New Roman, Times, serif">rocess their
+              products.</font>
+          </p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Special
+              labels are required on irradiated foods, including the
+              international symbol of irradiation, known as a <strong>“<font color="#009900">radura</font>”</strong>,
+              and a statement indicating that the food was <em>treated with
+                irradiation. </em></font></p>
         </div>
       </div>
       <footer>

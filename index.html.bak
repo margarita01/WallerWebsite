@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Radiation Science</title>
+    <title>Ed Waller Research Group</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -58,56 +58,52 @@
       <div id="site_content">
         <div id="sidebar_container">
           <div class="sidebar">
-            <h3>Explore Radiation Science</h3>
-            <br>
+            <h3>Latest News</h3>
+            <h4>New Website Launched</h4>
+            <h5>December 20th, 2014</h5>
+          </div>
+          <div class="sidebar">
+            <h3>Contact</h3>
             <ul>
-              <li><a href="HealthPhysics.html">Health Physics</a></li>
-              <li><a href="Environmental.html">Environmental</a></li>
-              <li><a href="Nuclear%20Fuel%20Cycle.html">Nuclear Fuel Cycle</a></li>
-              <li><a href="MedicalPhysics.html">Medical Physics</a></li>
-              <li><a href="FoodIrradiation.html">Food Irradiation</a></li>
-              <li><a href="Instrumentation.html">Instrumentation</a></li>
-              <li><a href="RadiationBiology.html">Radiation Biology</a></li>
-              <li><a href="IndustrialIrradiation.html">Industrial Irradiation</a></li>
-              <li><a href="Non-Destructive%20Testing.html">Non-Destructive
-                  Testing</a></li>
-              <li><a href="Miscellaneous.html">Miscellaneous</a></li>
+            </ul>
+            <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Energy
+                Research Centre<br>
+                2000 Simcoe Street North<br>
+                ON L1H 7K4 <br>
+                Oshawa<br>
+              </font></font>
+            <ul>
+              <br>
+              <br>
             </ul>
           </div>
-          <br>
+          <img style="width: 407px; height: 305px;" title="edwaller" alt="" src="EdWaller/Waller%20at%20UN.JPG"><br>
         </div>
         <div class="content">
-          <h1>Health Physics</h1>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Health
-                physics is the profession dedicated to the protection of humans
-                and their environment from the </font>harmful effects of
-              radiation while providing for its beneficial applications.&nbsp;
-              Health physicists (HPs) are found in universities, hospitals,
-              national laboratories, regulatory agencies, and industry. The
-              range of responsibilities of HPs is great.&nbsp; One observes HPs
-              doing anything from applied work involving periodic monitoring of
-              radiation fields and radioactive materials in the occupational
-              environment or the outdoors surrounding nuclear facilities, to
-              advanced cutting-edge research considering, for instance, the
-              patterns of energy deposition in human tissue produced by
-              different types of radiation or radiation-producing machines. <br>
-            </font></p>
-          <div style="text-align: center;"><img title="hp" alt="" src="images/health1.gif"></div>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              The field incorporates radioecology, dosimetry, instrumentation,
-              radiation physics, radiobiology, radiochemistry, and many more
-              sub-disciplines.&nbsp; If you are the kind of individual who
-              enjoys studying a broad range of disciplines and applying the
-              knowledge from many different areas to solve specific problems
-              then the profession of health physics may suit you fine. The
-              demand for entry-level HPs presently is very good. It appears that
-              this very high demand will persist for some time into the
-              future.&nbsp; Starting salaries are competitive with many
-              engineering disciplines.&nbsp; That science devoted to
-              recognition, evaluation, and control of all health hazards from
-              ionizing radiation.</font> </p>
+          <h1>Welcome to the Health Physics and Environmental Safety Research
+            Group</h1>
+          <p>The research group is headed by Dr. Ed Waller as part of the
+            Industrial research Chair in Health Physics and Environmental
+            Safety. Here you will find information about our research projects,
+            publications and available positions within our team.</p>
+          <br>
+          <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Ed
+                Waller:</span></span></h2>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Welcome
+              to my faculty website. My name is Ed Walle</font>r, and I am a
+            full professor at the University of Ontario Institute of
+            Technology.&nbsp; I was one of the first persons hired at UOIT, and
+            prior to this I spent over 15 years in industry primarily as a
+            contractor to Government.&nbsp; I have been involved in research,
+            development and analysis within the general field of radiation
+            science and engineering throughout my career, with a strong emphasis
+            on health physics (the science of safety and protection of workers
+            and the public that may be exposed to radiation). &nbsp;&nbsp;&nbsp;</font>
+          <br>
+          <font face="Georgia, Times New Roman, Times, serif">I would be pleased
+            if you would take some time to look around, explore the world of
+            health physics and radiation science and hopefully get a better
+            understanding of how we utilize radiation for improving our lives.</font><br>
           <br>
         </div>
       </div>

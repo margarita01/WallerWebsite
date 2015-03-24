@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -77,38 +77,26 @@
           <br>
         </div>
         <div class="content">
-          <h1>Health Physics</h1>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Health
-                physics is the profession dedicated to the protection of humans
-                and their environment from the </font>harmful effects of
-              radiation while providing for its beneficial applications.&nbsp;
-              Health physicists (HPs) are found in universities, hospitals,
-              national laboratories, regulatory agencies, and industry. The
-              range of responsibilities of HPs is great.&nbsp; One observes HPs
-              doing anything from applied work involving periodic monitoring of
-              radiation fields and radioactive materials in the occupational
-              environment or the outdoors surrounding nuclear facilities, to
-              advanced cutting-edge research considering, for instance, the
-              patterns of energy deposition in human tissue produced by
-              different types of radiation or radiation-producing machines. <br>
-            </font></p>
-          <div style="text-align: center;"><img title="hp" alt="" src="images/health1.gif"></div>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              The field incorporates radioecology, dosimetry, instrumentation,
-              radiation physics, radiobiology, radiochemistry, and many more
-              sub-disciplines.&nbsp; If you are the kind of individual who
-              enjoys studying a broad range of disciplines and applying the
-              knowledge from many different areas to solve specific problems
-              then the profession of health physics may suit you fine. The
-              demand for entry-level HPs presently is very good. It appears that
-              this very high demand will persist for some time into the
-              future.&nbsp; Starting salaries are competitive with many
-              engineering disciplines.&nbsp; That science devoted to
-              recognition, evaluation, and control of all health hazards from
-              ionizing radiation.</font> </p>
+          <h1>Miscellaneous</h1>
           <br>
+          <br>
+          <font face="Georgia, Times New Roman, Times, serif">I plan to use this
+            page to cover topics that cannot be classified by the other main
+            page topic headings.<br>
+          </font><br>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">In
+              the meantime, </font>here is a picture of <strong>GI Joe in
+              Radiation Detection Gear</strong>.&nbsp; Comfortable, yet
+            completely unsuitable personal protective equipment (PPE), his beard
+            provides the most radiation protection here!&nbsp; The <strong>mint
+              green</strong> leisure suit and the cool goggles round out this <strong>disco
+              era</strong> equipment. You can almost hear disco playing in the
+            background.....<br>
+            <br>
+          </font>
+          <div style="text-align: center;"><font face="Georgia, Times New Roman, Times, serif"><img
+                style="width: 436px; height: 470px;" title="gijoe" alt="" src="images/GI%20Joe%20in%20Radiation%20gear.jpg"></font><br>
+          </div>
         </div>
       </div>
       <footer>
