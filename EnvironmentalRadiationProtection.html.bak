@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Research</title>
+    <title>Environmental</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -18,11 +18,11 @@
               <tbody>
                 <tr>
                   <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
-                    <h1 style="width: 689px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 689px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -74,49 +74,58 @@
           </div>
         </div>
         <div class="content">
-          <h1>Research</h1>
-          <table style="width: 700px; height: 618px;" border="0">
-            <tbody>
-              <tr>
-                <td style="width: 50%; background-color: transparent; text-align: center;">
-                  <h3><span style="font-weight: bold;">Radiation Transport
-                      Simulations</span></h3>
-                  <a title="Radiation Transport" href="RadiationTransport.html"><img
-                      style="width: 224px; height: 224px;" title="fuel bundle" alt=""
-                      src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesjordan/3D%203.JPG"></a>
-                </td>
-                <td style="width: 50%; background-color: transparent;">
-                  <h3 style="text-align: center;"><span style="font-weight: bold;">Radiation
-                      Biology</span></h3>
-                  <div style="text-align: center;"><a title="Radiation Biology"
-                      href="RadiationBiologyResearch.html"><img style="width: 222px; height: 221px;"
-                        title="flagfish egg" alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesmargarita/eggscropped.png"></a>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td style="width: 50%; background-color: transparent;">
-                  <h3 style="text-align: center;"><span style="font-weight: bold;">Environmental
-                      Radiation Protection</span></h3>
-                </td>
-                <td style="width: 50%; background-color: transparent;">
-                  <h3 style="text-align: center;"><span style="font-weight: bold;">Nuclear
-                      Security</span></h3>
-                  <div style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><img
-                        style="width: 221px; height: 219px;" title="nuclear security"
-                        alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesnick/3dcropped.PNG"></a></div>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-          <br>
-          some fancy text.....<br>
+          <h1>Environmental Radiation Protection</h1>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"> <br>
+              </font></font></font><font face="Georgia, Times New Roman, Times, serif"><font
+              face="Georgia, Times New Roman, Times, serif">
+              <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Database
+                    of resuspension factors with respect to varying surface
+                    roughness characteristics for CANDU reactor containment in
+                    the event of a LOCA<br>
+                  </span></span></h2>
+              <p align="justify"><font face="Georgia, Times New Roman, Times, serif">The
+                  effect of surface roughness of various surfaces on
+                  resuspension of particulate and consequent theoretical
+                  internal dose from inhalation is investigated. Effects of
+                  roughness characteristics on resting particulate can be
+                  examined by observing the sub-layer in a velocity field using
+                  computational fluid dynamics and examining the cumulative
+                  impact of forces on particles in 1 to 10 micron range.</font></p>
+              <font face="Georgia, Times New Roman, Times, serif">
+                <p> </p>
+              </font></font></font>
           <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                   face="Georgia, Times New Roman, Times, serif"> </font></font></font></p>
-          <div style="text-align: center;"><img title="environmental radiation protection"
-              alt="" src="images/drawing.png"></div>
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                 face="Georgia, Times New Roman, Times, serif">
+                <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                      <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">A
+                            Comparison of Environmental Modelling Approaches on
+                            the Case-study of the Chalk River Laboratories Site</span></span></h2>
+                      <img style="width: 277px; height: 238px;" title="tracks in a pumpkinseed egg"
+                        alt="" src="picturesmargarita/egg_tracks.png"><img style="width: 326px; height: 238px;"
+                        title="Pumpkinseed MCNP" alt="" src="picturesmargarita/mcnpPerch.png">
+                      <p><font face="Georgia, Times New Roman, Times, serif"><font
+                            face="Georgia, Times New Roman, Times, serif"><font
+                              face="Georgia, Times New Roman, Times, serif">Dependable
+                              and fast&nbsp; assessment of radiological impact
+                              on non-human biota is crucial for the nuclear
+                              industry and the public. This work compares the
+                              most frequently used environmental modelling
+                              techniques for dose estimation in aquatic biota on
+                              the practical case-study of the Chalk River
+                              Laboratories Site. On the basis of water
+                              concentration data the software tools RESRAD-BIOTA
+                              and ERICA are and compared to the absorbed dose as
+                              estimated by analytic calculation methods, the
+                              point-source-distribution model and dose
+                              conversion coefficients based on Monte-Carlo
+                              simulations of idealized geometries. A detailed
+                              MCNP dosimetric model of the studied biota is used
+                              to assess the reliability of the calculation.<br>
+                            </font></font></font></p>
+                    </font></font> </p>
                 <p><br>
                 </p>
               </font></font></font></div>

@@ -81,7 +81,7 @@
                 <td style="width: 50%; background-color: transparent; text-align: center;">
                   <h3><span style="font-weight: bold;">Radiation Transport
                       Simulations</span></h3>
-                  <a title="Radiation Transport" href="RadiationTransport.html"><img
+                  <a title="Radiation Transport" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/RadiationTransport.html"><img
                       style="width: 224px; height: 224px;" title="fuel bundle" alt=""
                       src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesjordan/3D%203.JPG"></a>
                 </td>
@@ -89,8 +89,9 @@
                   <h3 style="text-align: center;"><span style="font-weight: bold;">Radiation
                       Biology</span></h3>
                   <div style="text-align: center;"><a title="Radiation Biology"
-                      href="RadiationBiologyResearch.html"><img style="width: 222px; height: 221px;"
-                        title="flagfish egg" alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesmargarita/eggscropped.png"></a>
+                      href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/RadiationBiologyResearch.html"><img
+                        style="width: 222px; height: 221px;" title="flagfish egg"
+                        alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesmargarita/eggscropped.png"></a>
                   </div>
                 </td>
               </tr>
@@ -102,7 +103,7 @@
                 <td style="width: 50%; background-color: transparent;">
                   <h3 style="text-align: center;"><span style="font-weight: bold;">Nuclear
                       Security</span></h3>
-                  <div style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><img
+                  <div style="text-align: center;"><a title="Nuclear Security" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/NuclearSecurity.html"><img
                         style="width: 221px; height: 219px;" title="nuclear security"
                         alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesnick/3dcropped.PNG"></a></div>
                 </td>
