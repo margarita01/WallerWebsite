@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Radiation Biology</title>
+    <title>Nuclear Security</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -58,12 +58,16 @@
       </header>
       <div id="site_content">
         <div id="sidebar_container">
-          <div class="sidebar"> <br>
-            <h4><a title="Research" href="Research.html">Research Areas:</a></h4>
+          <div class="sidebar"><a title="Radiation Transport" href="RadiationTransport.html">
+            </a><a title="Radiation Transport Simulations" href="RadiationTransport.html"><br>
+            </a>
+            <h4><a title="Research" href="Research.html">Research
+                Areas:</a></h4>
             <ul>
               <li><a title="Radiation Transport" href="RadiationTransport.html">Radiation
                   Transport</a></li>
-              <li><a title="EPR" href="EPRResearch.html">EPR Dosimetry</a></li>
+              <li><a title="EPR" href="EPRResearch.html">EPR
+                  Dosimetry</a></li>
               <li><a title="Environmental Modelling" href="EnvironmentalModelling.html">Environmental
                   Modelling<br>
                 </a></li>
@@ -75,72 +79,72 @@
                   Detection<br>
                 </a></li>
             </ul>
-            <h4><a title="Publications" href="publications.html">List of
-                Publications</a></h4>
+            <h4><a title="Publications" href="publications.html">List
+                of Publications</a></h4>
             <br>
             <h4><a title="Undergraduate Projects" href="UndergraduateProjects.html">Undergraduate
                 Research Projects</a></h4>
           </div>
         </div>
         <div class="content">
-          <h1>Radiation Biology</h1>
+          <h1>Nuclear Security</h1>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif">
+                <p> </p>
+                <h2><br>
+                  <span style="color: #444444;"></span><font face="Georgia, Times New Roman, Times, serif"><font
+                      face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><span
+                          style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Administrative
+                            Monetary Penalties in Nuclear Security<br>
+                          </span></span></font></font></font></h2>
+              </font></font></font><font face="Georgia, Times New Roman, Times, serif"><font
+              face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+              </font></font></font>
+          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">J.
+                Vucicevic</span></span></h5>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"> </font></font></font><img
+            style="width: 597px; height: 341px;" title="Monetary Penalties" alt="Monetary Penalties"
+            src="JelenaPictures/monetpenalties.PNG"><br>
           <br>
-          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
-            </font></font> <font face="Georgia, Times New Roman, Times, serif">
-            <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Effects
-                  of Gamma Radiation to American Flagfish</span></span></h2>
-          </font>
-          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
-                Tzivaki</span></span></h5>
-          <font face="Georgia, Times New Roman, Times, serif"> <img style="width: 285px; height: 227px;"
-              title="eggs" alt="" src="picturesmargarita/eggs040814.png"><img style="width: 284px; height: 227px;"
-              title="flagfish" alt="" src="picturesmargarita/Group3%289%29.png"><br>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">With
-                growing interest in environmental protection, the need has risen
-                to investigate the effects of radiation and the resulting
-                radiation damage to components of the natural environment. In
-                the past the assumption was made, that "if man is adequately
-                protected, then other living things, are also likely to be
-                protected". There is a great research need to gather data about
-                the reference animals and plants as well as identifying related
-                research organisms which are selected based on practicability
-                considerations and their suitability for research. Model
-                organisms are used to decouple the system to be studied from its
-                environment in order to isolate the effects of radiation and
-                observe specific reference and benchmark values of radiation
-                effects.<br>
-              </font></p>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">American
-                Flagfish are currently investigated as to their suitability to
-                be a model organism in radiobiology studies. For that purpose
-                the response of American Flagfish to gamma radiation and X-rays
-                is studied.</font></p>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></p>
-          </font><font face="Georgia, Times New Roman, Times, serif">
-            <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Modelling
-                  Radiation Damage Due to Low Energy Electrons</span></span></h2>
-          </font>
-          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
-                Magill</span></span></h5>
-          <font face="Georgia, Times New Roman, Times, serif"> </font><img style="width: 688px; height: 347px;"
-            title="microdosimetry" alt="" src="picturesmartin/AllBMinus_MaxFracRBE.png">
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                  face="Georgia, Times New Roman, Times, serif">Microdosimetry
-                  is the study of how radiation interacts with biological
-                  systems at the cellular level. This project is aimed at using
-                  modern computational techniques to model these biophysical
-                  processes in detail. All forms of ionizing radiation
-                  eventually interact with biological systems through
-                  moderate-energy electrons (with about 1 keV of kinetic energy,
-                  or less). However, recent work has demonstrated that these
-                  particles behave quantum-mechanically in water. We are working
-                  on developing the first microdosimetry simulation program to
-                  model that interaction. We will then use molecular dynamic
-                  simulation techniques to follow the propagation of energy
-                  within a cell. In particular, we are interested in studying
-                  the ionization of DNA molecules, which can lead to mutations
-                  and cancer formation</font></font></font></p>
+          <p style="text-align: justify;"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                  An Administrative Monetary Penalty (AMP) is an administrative
+                  penalty imposed by the Canadian Nuclear Safety Commission
+                  (CNSC), without court involvement. It is used for the
+                  violation of a regulatory requirement. An AMP can be applied
+                  against any individual or corporation subject to the Nuclear
+                  Safety and Control Act. The main goal of this research is to
+                  discover whether the AMP system is useful<br>
+                  or not in nuclear security. The AMP policy and the development
+                  of the system represent a significant investment for the
+                  nuclear industry and especially for the regulators. An
+                  analysis was conducted to confirm that the investment was
+                  justified and the return is as expected. The result of this
+                  analysis showed that the effects of the AMP are not as
+                  expected and certain modifications were proposed for the
+                  improvement of the system.</font></font></font></p>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif">
+                <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Modeling
+                      the Efficacy of Nuclear Security Regimes</span></span></h2>
+              </font></font></font>
+          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">N.
+                Chornoboy</span></span></h5>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"> </font></font></font><img
+            style="width: 636px; height: 248px;" title="stage" alt="" src="picturesnick/3d.PNG"><br>
+          <br>
+          <p style="text-align: justify;"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                  It is currently difficult to determine how effective the
+                  security is at a nuclear power plant, relying on expensive
+                  live exercises. Producing a computer model of the plant and
+                  its security allows testing, validation and optimization in
+                  between live exercises to further improve security.</font></font></font></p>
+          <p style="text-align: justify;"><br>
+            <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                  face="Georgia, Times New Roman, Times, serif"></font></font></font></p>
           <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                   face="Georgia, Times New Roman, Times, serif"> </font></font></font></p>
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
@@ -155,10 +159,9 @@
       <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
             face="Georgia, Times New Roman, Times, serif">
             <footer>
-              <p><a title="Home" href="index.html">Home</a> | <a title="Ed Waller"
-                  href="EdWaller.html">Ed Waller</a> | <a title="Members" href="Members.html">Members</a>|
-                <a title="Research" href="Research.html">Research</a> | <a title="Radiation Science"
-                  href="RadiationScience.html">Radiation Science<br>
+              <p><a href="index.html">Home</a> | <a href="EdWaller.html">Ed
+                  Waller</a> | <a href="Members.html">Members</a>| <a href="Research.html">Research</a>
+                | <a href="RadiationScience.html">Radiation Science<br>
                 </a></p>
               <p>&nbsp;<a href="http://www.css3templates.co.uk">design from
                   css3templates.co.uk</a></p>

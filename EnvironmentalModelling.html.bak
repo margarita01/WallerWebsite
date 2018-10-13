@@ -18,7 +18,7 @@
               <tbody>
                 <tr>
                   <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
-                    <h1 style="width: 689px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                    <h1 style="width: 689px;"><a href="index.html"><span
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
@@ -59,18 +59,20 @@
       <div id="site_content">
         <div id="sidebar_container">
           <div class="sidebar"><br>
-            <h4><a title="Research" href="Research.html">Research Areas:<br>
-              </a></h4>
+            <h4><a title="Research" href="Research.html">Research Areas:</a></h4>
             <ul>
               <li><a title="Radiation Transport" href="RadiationTransport.html">Radiation
-                  Transport<br>
+                  Transport</a></li>
+              <li><a title="EPR" href="EPRResearch.html">EPR Dosimetry</a></li>
+              <li><a title="Environmental Modelling" href="EnvironmentalModelling.html">Environmental
+                  Modelling<br>
                 </a></li>
               <li><a title="Radiation Biology" href="RadiationBiologyResearch.html">Radiation
                   Biology</a></li>
               <li><a title="Nuclear Security" href="NuclearSecurity.html">Nuclear
                   Security</a></li>
-              <li><a title="Environmental Radiation Protection" href="EnvironmentalRadiationProtection.html">Environmental
-                  Radiation Protection<br>
+              <li><a title="Environmental Radiation Protection" href="Detection.html">Radiation
+                  Detection<br>
                 </a></li>
             </ul>
             <h4><a title="Publications" href="publications.html">List of
@@ -90,10 +92,15 @@
                         style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">A
                           Comparison of Environmental Modelling Approaches on
                           the Case-study of the Chalk River Laboratories Site</span></span></font></font></h2>
-                <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
-                    <img style="width: 277px; height: 238px;" title="tracks in a pumpkinseed egg"
-                      alt="" src="picturesmargarita/egg_tracks.png"><img style="width: 326px; height: 238px;"
-                      title="Pumpkinseed MCNP" alt="" src="picturesmargarita/mcnpPerch.png">
+              </font></font></font>
+          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
+                Tzivaki, H. Graham</span></span></h5>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"> <font face="Georgia, Times New Roman, Times, serif"><font
+                    face="Georgia, Times New Roman, Times, serif"> <img style="width: 277px; height: 238px;"
+                      title="tracks in a pumpkinseed egg" alt="" src="picturesmargarita/egg_tracks.png"><img
+                      style="width: 326px; height: 238px;" title="Pumpkinseed MCNP"
+                      alt="" src="picturesmargarita/mcnpPerch.png">
                     <p><font face="Georgia, Times New Roman, Times, serif"><font
                           face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Robust
                             and speedy assessment of radiological impact on
@@ -116,7 +123,6 @@
                             low-energy beta particles&nbsp; and in small
                             geometries.<br>
                           </font></font></font></p>
-                    <p></p>
                     <font face="Georgia, Times New Roman, Times, serif">
                       <p><font face="Georgia, Times New Roman, Times, serif"><font
                             face="Georgia, Times New Roman, Times, serif"><font
@@ -134,8 +140,13 @@
                                         face="Georgia, Times New Roman, Times, serif"><span
                                           style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Radiation
                                             Transport Modeling for Various Sand
-                                            Compositions <br>
-                                          </span></span></font></font></font></font></font></font></font></font></h2>
+                                            Compositions&nbsp;</span></span></font></font></font></font></font></font></font></font></h2>
+                    </font></font></font></font></font></font>
+          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">H.
+                Graham</span></span></h5>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                    face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
                       <font face="Georgia, Times New Roman, Times, serif">
                         <p>Work in progress.</p>
                       </font></font></font></font></font></font>
@@ -145,9 +156,12 @@
                     style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Database
                       of resuspension factors with respect to varying surface
                       roughness characteristics for CANDU reactor containment in
-                      the event of a LOCA<br>
-                    </span></span></font></font></h2>
-            <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                      the event of a LOCA</span></span></font></font></h2>
+          </font>
+          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">A.
+                Akhtar</span></span></h5>
+          <font face="Georgia, Times New Roman, Times, serif"> <font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif">
                 <p align="justify"><font face="Georgia, Times New Roman, Times, serif">The
                     effect of surface roughness of various surfaces on
                     resuspension of particulate and consequent theoretical
@@ -158,8 +172,6 @@
                     cumulative impact of forces on particles in 1 to 10 micron
                     range.</font></p>
               </font></font></font>
-          <p></p>
-          <p></p>
           <p><br>
           </p>
         </div>

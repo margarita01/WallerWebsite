@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Radiation Biology</title>
+    <title>EPR</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -30,7 +30,8 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 187px; height: 59px;" title="uoit" alt="uoit"
+                      src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -83,64 +84,36 @@
           </div>
         </div>
         <div class="content">
-          <h1>Radiation Biology</h1>
+          <h1>Electron Paramagnetic Resonance for Radiation Detection</h1>
           <br>
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
             </font></font> <font face="Georgia, Times New Roman, Times, serif">
-            <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Effects
-                  of Gamma Radiation to American Flagfish</span></span></h2>
+            <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">The
+                  Radiation Dose Response of Mollusc Shells from the Great Lakes</span></span></h2>
           </font>
           <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
                 Tzivaki</span></span></h5>
-          <font face="Georgia, Times New Roman, Times, serif"> <img style="width: 285px; height: 227px;"
-              title="eggs" alt="" src="picturesmargarita/eggs040814.png"><img style="width: 284px; height: 227px;"
-              title="flagfish" alt="" src="picturesmargarita/Group3%289%29.png"><br>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">With
-                growing interest in environmental protection, the need has risen
-                to investigate the effects of radiation and the resulting
-                radiation damage to components of the natural environment. In
-                the past the assumption was made, that "if man is adequately
-                protected, then other living things, are also likely to be
-                protected". There is a great research need to gather data about
-                the reference animals and plants as well as identifying related
-                research organisms which are selected based on practicability
-                considerations and their suitability for research. Model
-                organisms are used to decouple the system to be studied from its
-                environment in order to isolate the effects of radiation and
-                observe specific reference and benchmark values of radiation
-                effects.<br>
+          <font face="Georgia, Times New Roman, Times, serif"> <br>
+            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Work
+                in progress... <br>
               </font></p>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">American
-                Flagfish are currently investigated as to their suitability to
-                be a model organism in radiobiology studies. For that purpose
-                the response of American Flagfish to gamma radiation and X-rays
-                is studied.</font></p>
+            <p align="justify"><br>
+              <font face="Georgia, Times New Roman, Times, serif"> </font></p>
+            <h2><font face="Georgia, Times New Roman, Times, serif"><span style="color: #444444;"><span
+                    style="font-family: 'Droid Sans',arial,sans-serif;">Alanine
+                    Powder as a Reference Dosimeter<br>
+                  </span></span></font></h2>
+            <font face="Georgia, Times New Roman, Times, serif"> </font> </font>
+          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">L.
+                Felner, A. Hassan, M. Tzivaki</span></span><br>
+          </h5>
+          <font face="Georgia, Times New Roman, Times, serif"> <br>
+            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Work
+                in Progress....</font></p>
+          </font><font face="Georgia, Times New Roman, Times, serif">
             <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
               </font></p>
-          </font><font face="Georgia, Times New Roman, Times, serif">
-            <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Modelling
-                  Radiation Damage Due to Low Energy Electrons</span></span></h2>
           </font>
-          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
-                Magill</span></span></h5>
-          <font face="Georgia, Times New Roman, Times, serif"> </font><img style="width: 688px; height: 347px;"
-            title="microdosimetry" alt="" src="picturesmartin/AllBMinus_MaxFracRBE.png">
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                  face="Georgia, Times New Roman, Times, serif">Microdosimetry
-                  is the study of how radiation interacts with biological
-                  systems at the cellular level. This project is aimed at using
-                  modern computational techniques to model these biophysical
-                  processes in detail. All forms of ionizing radiation
-                  eventually interact with biological systems through
-                  moderate-energy electrons (with about 1 keV of kinetic energy,
-                  or less). However, recent work has demonstrated that these
-                  particles behave quantum-mechanically in water. We are working
-                  on developing the first microdosimetry simulation program to
-                  model that interaction. We will then use molecular dynamic
-                  simulation techniques to follow the propagation of energy
-                  within a cell. In particular, we are interested in studying
-                  the ionization of DNA molecules, which can lead to mutations
-                  and cancer formation</font></font></font></p>
           <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                   face="Georgia, Times New Roman, Times, serif"> </font></font></font></p>
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
@@ -155,18 +128,19 @@
       <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
             face="Georgia, Times New Roman, Times, serif">
             <footer>
-              <p><a title="Home" href="index.html">Home</a> | <a title="Ed Waller"
-                  href="EdWaller.html">Ed Waller</a> | <a title="Members" href="Members.html">Members</a>|
-                <a title="Research" href="Research.html">Research</a> | <a title="Radiation Science"
-                  href="RadiationScience.html">Radiation Science<br>
+              <p><a title="Home" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/index.html">Home</a>
+                | <a title="Ed Waller" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/EdWaller.html">Ed
+                  Waller</a> | <a title="Members" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/Members.html">Members</a>|
+                <a title="Research" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/Research.html">Research</a>
+                | <a title="Radiation Science" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/RadiationScience.html">Radiation
+                  Science<br>
                 </a></p>
               <p>&nbsp;<a href="http://www.css3templates.co.uk">design from
                   css3templates.co.uk</a></p>
             </footer>
-            <!-- javascript at the bottom for fast page loading -->
-            <script type="text/javascript" src="js/jquery.js"></script>
-            <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
-            <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+            <script type="text/javascript" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/js/jquery.js"></script>
+            <script type="text/javascript" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/js/jquery.easing-sooper.js"></script>
+            <script type="text/javascript" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/js/jquery.sooperfish.js"></script>
             <script type="text/javascript">
     $(document).ready(function() {
       $('ul.sf-menu').sooperfish();

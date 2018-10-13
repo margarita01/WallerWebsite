@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Radiation Biology</title>
+    <title>Research</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -58,7 +58,8 @@
       </header>
       <div id="site_content">
         <div id="sidebar_container">
-          <div class="sidebar"> <br>
+          <div class="sidebar"> <a title="Research" href="Research.html"><br>
+            </a>
             <h4><a title="Research" href="Research.html">Research Areas:</a></h4>
             <ul>
               <li><a title="Radiation Transport" href="RadiationTransport.html">Radiation
@@ -83,73 +84,65 @@
           </div>
         </div>
         <div class="content">
-          <h1>Radiation Biology</h1>
+          <h1>Research</h1>
+          <table style="width: 700px; height: 558px;" border="0">
+            <tbody>
+              <tr>
+                <td style="width: 50%; background-color: transparent; text-align: center;">
+                  <h4><a title="Radiation Transport Modelling" href="RadiationTransport.html"><span
+                        style="font-weight: bold;">Radiation Transport Modelling</span></a></h4>
+                  <a title="Radiation Transport Modelling" href="RadiationTransport.html"><img
+                      alt="fuel bundle" style="width: 224px; height: 224px;" title="fuel bundle"
+                      src="picturesjordan/3D%203.JPG"></a> </td>
+                <td style="width: 50%; background-color: transparent;">
+                  <h4 style=" text-align: center;"><a title="EPR " href="EPRResearch.html"><span
+                        style="font-weight: bold;">EPR Dosimetry</span></a></h4>
+                  <div style="text-align: center;"><a title="EPR" href="EPRResearch.html"><img
+                        alt="EPR" style="width: 224px; height: 224px;" title="EPR"
+                        src="images/epr.png"></a></div>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 50%; background-color: transparent;">
+                  <h4 style=" text-align: center;"><a title="Environmental Modelling"
+                      href="EnvironmentalModelling.html"><span style="font-weight: bold;">Environmental
+                        Modelling</span></a></h4>
+                  <div style="text-align: center;"><a title="Environmental Modelling"
+                      href="EnvironmentalRadiationProtection.html"><img alt="Environmental Modelling"
+                        style="width: 222px; height: 222px;" title="Environmental Modelling"
+                        src="picturesmargarita/mcnpPerch.png"></a></div>
+                </td>
+                <td style="width: 50%; background-color: transparent;">
+                  <h4 style="  text-align: center;"><a title="Radiation Biology"
+                      href="RadiationBiologyResearch.html"><span style="font-weight: bold;">Radiation
+                        Biology</span></a></h4>
+                  <div style="text-align: center;"><a title="Radiation Biology"
+                      href="RadiationBiologyResearch.html"><img alt="radiation biology"
+                        style="width: 224px; height: 224px;" title="radiation biology"
+                        src="picturesmargarita/eggscropped.png"></a></div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <h4 style=" text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><span
+                        style="font-weight: bold;">Nuclear Security</span></a></h4>
+                  <div style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><img
+                        alt="nuclear security" style="width: 221px; height: 219px;"
+                        title="nuclear security" src="picturesnick/3dcropped.PNG"></a></div>
+                </td>
+                <td>
+                  <h4 style=" text-align: center;"><a title="Radiation Detection"
+                      href="Detection.html"><span style="font-weight: bold;">Radiation
+                        Detection</span></a></h4>
+                  <div style="text-align: center;"><a title="Radiation Detection"
+                      href="Detection.html"><img alt="radiation detection" style="width: 224px; height: 224px;"
+                        title="radiation detection" src="Callanpictures/IMG_20170628_104744.jpg"></a></div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <br>
-          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
-            </font></font> <font face="Georgia, Times New Roman, Times, serif">
-            <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Effects
-                  of Gamma Radiation to American Flagfish</span></span></h2>
-          </font>
-          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
-                Tzivaki</span></span></h5>
-          <font face="Georgia, Times New Roman, Times, serif"> <img style="width: 285px; height: 227px;"
-              title="eggs" alt="" src="picturesmargarita/eggs040814.png"><img style="width: 284px; height: 227px;"
-              title="flagfish" alt="" src="picturesmargarita/Group3%289%29.png"><br>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">With
-                growing interest in environmental protection, the need has risen
-                to investigate the effects of radiation and the resulting
-                radiation damage to components of the natural environment. In
-                the past the assumption was made, that "if man is adequately
-                protected, then other living things, are also likely to be
-                protected". There is a great research need to gather data about
-                the reference animals and plants as well as identifying related
-                research organisms which are selected based on practicability
-                considerations and their suitability for research. Model
-                organisms are used to decouple the system to be studied from its
-                environment in order to isolate the effects of radiation and
-                observe specific reference and benchmark values of radiation
-                effects.<br>
-              </font></p>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">American
-                Flagfish are currently investigated as to their suitability to
-                be a model organism in radiobiology studies. For that purpose
-                the response of American Flagfish to gamma radiation and X-rays
-                is studied.</font></p>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></p>
-          </font><font face="Georgia, Times New Roman, Times, serif">
-            <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Modelling
-                  Radiation Damage Due to Low Energy Electrons</span></span></h2>
-          </font>
-          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
-                Magill</span></span></h5>
-          <font face="Georgia, Times New Roman, Times, serif"> </font><img style="width: 688px; height: 347px;"
-            title="microdosimetry" alt="" src="picturesmartin/AllBMinus_MaxFracRBE.png">
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                  face="Georgia, Times New Roman, Times, serif">Microdosimetry
-                  is the study of how radiation interacts with biological
-                  systems at the cellular level. This project is aimed at using
-                  modern computational techniques to model these biophysical
-                  processes in detail. All forms of ionizing radiation
-                  eventually interact with biological systems through
-                  moderate-energy electrons (with about 1 keV of kinetic energy,
-                  or less). However, recent work has demonstrated that these
-                  particles behave quantum-mechanically in water. We are working
-                  on developing the first microdosimetry simulation program to
-                  model that interaction. We will then use molecular dynamic
-                  simulation techniques to follow the propagation of energy
-                  within a cell. In particular, we are interested in studying
-                  the ionization of DNA molecules, which can lead to mutations
-                  and cancer formation</font></font></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                  face="Georgia, Times New Roman, Times, serif"> </font></font></font></p>
-          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                face="Georgia, Times New Roman, Times, serif">
-                <p><br>
-                </p>
-                <p><br>
-                </p>
-              </font></font></font></div>
+        </div>
         <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
               face="Georgia, Times New Roman, Times, serif"> </font></font></font></div>
       <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font

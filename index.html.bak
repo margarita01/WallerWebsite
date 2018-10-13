@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Ed Waller</title>
+    <title>Ed Waller Research Group</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -58,56 +58,54 @@
       <div id="site_content">
         <div id="sidebar_container">
           <div class="sidebar">
-            <h3>Links:</h3>
-            <p><a href="ShortCV.html">Short CV</a></p>
-            <p><a href="GraduateStudies.html">Graduate Studies @ UOIT</a></p>
-            <img style="width: 206px; height: 237px;" title="EdWaller" alt="" src="EdWaller/Ed%20Scuba%20West%20Palm%20Beach.jpg"><br>
+            <h3>Latest News</h3>
+            <h4>New Website launched</h4>
+            <h5>April 2017</h5>
+            <h4><span style="color: #cc0000;">Currently looking for MASc/MSc
+                students</span><br>
+            </h4>
           </div>
+          <div class="sidebar">
+            <h3>Contact</h3>
+            <ul>
+            </ul>
+            <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">ed.waller@uoit.ca<br>
+                Energy Research Centre<br>
+                2000 Simcoe Street North<br>
+                ON L1H 7K4 <br>
+                Oshawa<br>
+              </font></font> <br>
+            <br>
+          </div>
+          <img style="width: 407px; height: 305px;" title="edwaller" alt="" src="EdWaller/Waller%20at%20UN.JPG"><br>
         </div>
         <div class="content">
-          <h1>Ed Waller</h1>
+          <h1>Welcome to the Health Physics and Environmental Safety Research
+            Group</h1>
+          <p>The research group is headed by Dr. Ed Waller as part of the
+            Industrial Research Chair in Health Physics and Environmental
+            Safety. Here you will find information about our research projects,
+            publications and available positions within our team.</p>
           <br>
+          <h2><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Ed
+                Waller:</span></span></h2>
+          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Welcome
+                to my faculty website. My name is Ed Walle</font>r, and I am a
+              full professor at the University of Ontario Institute of
+              Technology.&nbsp; I was one of the first persons hired at UOIT,
+              and prior to this I spent over 15 years in industry primarily as a
+              contractor to Government.&nbsp; I have been involved in research,
+              development and analysis within the general field of radiation
+              science and engineering throughout my career, with a strong
+              emphasis on health physics (the science of safety and protection
+              of workers and the public that may be exposed to radiation).
+              &nbsp;&nbsp;&nbsp;</font> </p>
+          <p> <font face="Georgia, Times New Roman, Times, serif">I would be
+              pleased if you would take some time to look around, explore the
+              world of health physics and radiation science and hopefully get a
+              better understanding of how we utilize radiation for improving our
+              lives.</font></p>
           <br>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">I
-              am a full Professor at the University of Ontario Institute of
-              Technology (UOIT), in the Faculty of Energy Systems and Nuclear
-              Science, Oshawa, Ontario, Canada and am currently an <a href="http://www.nserc-crsng.gc.ca/">NSERC</a>/<a
-                href="http://www.unene.ca/">UNENE</a> Industrial Research Chair
-              in Health Physics and Environmental Safety, collaborating with the
-              Senior Chair holder, <a href="http://nuclear.uoit.ca/#%21waker">Dr.
-                Anthony Waker</a>.</font></p>
-          <p> <font face="Georgia, Times New Roman, Times, serif">I earned my
-              BSc in Physics (Hons) and MScE in Chemical Engineering at the <a
-                href="http://www.unb.ca/">University of New Brunswick</a> (UNB),
-              Fredericton, New Brunswick and my PhD in Nuclear Engineering and
-              Science at <a href="http://www.rpi.edu/">Rensselaer Polytechnic
-                Institute</a>, New York (RPI). &nbsp;I worked for over 15 years
-              in industry for <a href="http://www.saic.com/canada/">Science
-                Applications International Corporation</a>, primarily in threat
-              assessment, health physics and appl</font><font face="Georgia, Times New Roman, Times, serif">ications
-              of radiation. &nbsp;In 2003 I joined the University of Ontario
-              Institute of Technology.&nbsp; </font> </p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">I
-              hold a number of certifications, such as Professional Engineer,
-              Ontario (<a href="http://www.peo.on.ca/">PEng</a>), Certified
-              Associate Industrial Hygienist (<a href="http://www.abih.org/">CAIH</a>)
-              and Certified Health Physicist (<a href="http://www.hps1.org/aahp/">CHP</a>).
-              I teach a variety of courses including radiation protection,
-              health physics, environmental effects of radiation, environmental
-              modeling, Monte Carlo methods and nuclear forensics at UOIT. My
-              research is in areas of emergency response, radiation dosimetry
-              (internal and external), applied health physics, radiation safety,
-              counter-terrorism and threat assessment. &nbsp;</font></p>
-          <p> </p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">I
-              hold a private pilot license (not actively flying), and I actively
-              scuba dive. My preferred sport is <a href="http://www.rugbycanada.ca/">rugby</a>
-              (not so much to play anymore but certainly to watch) and I have
-              been known to play in the odd soccer game once in a while. </font></p>
-          <p> </p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">My
-              email address is <a href="mailto:ed.waller@uoit.ca">ed.waller@uoit.ca</a>
-            </font></p>
         </div>
       </div>
       <footer>
