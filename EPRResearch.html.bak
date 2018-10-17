@@ -128,19 +128,18 @@
       <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
             face="Georgia, Times New Roman, Times, serif">
             <footer>
-              <p><a title="Home" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/index.html">Home</a>
-                | <a title="Ed Waller" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/EdWaller.html">Ed
-                  Waller</a> | <a title="Members" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/Members.html">Members</a>|
-                <a title="Research" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/Research.html">Research</a>
-                | <a title="Radiation Science" href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/RadiationScience.html">Radiation
+              <p><a title="Home" href="index.html">Home</a> | <a title="Ed Waller"
+                  href="EdWaller.html">Ed Waller</a> | <a title="Members" href="Members.html">Members</a>|
+                <a title="Research" href="Research.html">Research</a> |
+                <a title="Radiation Science" href="RadiationScience.html">Radiation
                   Science<br>
                 </a></p>
               <p>&nbsp;<a href="http://www.css3templates.co.uk">design from
                   css3templates.co.uk</a></p>
             </footer>
-            <script type="text/javascript" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/js/jquery.js"></script>
-            <script type="text/javascript" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/js/jquery.easing-sooper.js"></script>
-            <script type="text/javascript" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/js/jquery.sooperfish.js"></script>
+            <script type="text/javascript" src="js/jquery.js"></script>
+            <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+            <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
             <script type="text/javascript">
     $(document).ready(function() {
       $('ul.sf-menu').sooperfish();

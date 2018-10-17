@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -61,7 +61,7 @@
             <h3>Links:</h3>
             <p><a href="ShortCV.html">Short CV</a></p>
             <p><a href="GraduateStudies.html">Graduate Studies @ UOIT</a></p>
-            <img style="width: 236px; height: 237px;" title="EdWaller" alt="" src="EdWaller/Ed%20Scuba%20West%20Palm%20Beach.jpg"><br>
+            <img style="width: 206px; height: 237px;" title="EdWaller" alt="" src="EdWaller/Ed%20Scuba%20West%20Palm%20Beach.jpg"><br>
           </div>
         </div>
         <div class="content">
