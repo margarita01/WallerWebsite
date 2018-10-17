@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Gallery</title>
+    <meta name="description" content="website description">
+    <meta name="keywords" content="website keywords, website keywords">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- modernizr enables HTML5 elements and feature detects -->
+    <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+  </head>
+  <body>
+    <div id="main">
+      <header style="margin-top: -19px;">
+        <div id="logo">
+          <div id="logo_text">
+            <table style="width: 996px; height: 156px;" border="0">
+              <tbody>
+                <tr>
+                  <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
+                    <h1 style="width: 689px;"><a title="Home" href="index.html"><span
+                          class="logo_colour"><span style="color: white;">Health
+                            Physics and Environmental Safety<br>
+                          </span></span></a></h1>
+                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
+                          class="logo_colour"><span style="color: white;">Research
+                            Group<span style="color: #777777;"> <br>
+                            </span></span></span></a></h1>
+                    <h2><span style="color: #47433f;"><span style="font-family: 'Droid Sans',arial,sans-serif;"></span></span><br>
+                    </h2>
+                  </td>
+                  <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
+                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                    <br>
+                    <br>
+                    <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
+                        CHP<br>
+                      </span></h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+          </div>
+        </div>
+        <nav>
+          <div id="menu_container">
+            <ul class="sf-menu" id="nav">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="EdWaller.html">Ed Waller</a></li>
+              <li><a href="Members.html">Members</a></li>
+              <li><a href="Research.html">Research</a></li>
+              <li><a href="RadiationScience.html">Radiation Science</a></li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+      <div id="site_content">
+        <div id="sidebar_container">
+          <div class="sidebar">
+            <h3>Archive:</h3>
+            <br>
+            <ul>
+              <li>
+                <h4><a title="Gallery" href="Galleryhome.html">2018</a></h4>
+              </li>
+              <li>
+                <h4><a title="Gallery Archive" href="GalleryOld.html">older</a></h4>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="content">
+          <h1>Gallery</h1>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0001.JPG">
+              <img src="Gallery/DSC_0001.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0005.JPG">
+              <img src="Gallery/DSC_0005.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0006.JPG">
+              <img src="Gallery/DSC_0006.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0009.JPG">
+              <img src="Gallery/DSC_0009.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0010.JPG">
+              <img src="Gallery/DSC_0010.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0013.JPG">
+              <img src="Gallery/DSC_0013.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0015.JPG">
+              <img src="Gallery/DSC_0015.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0018.JPG">
+              <img src="Gallery/DSC_0018.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0019.JPG">
+              <img src="Gallery/DSC_0019.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0022.JPG">
+              <img src="Gallery/DSC_0022.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0023.JPG">
+              <img src="Gallery/DSC_0023.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0024.JPG">
+              <img src="Gallery/DSC_0024.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0031.JPG">
+              <img src="Gallery/DSC_0031.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0034.JPG">
+              <img src="Gallery/DSC_0034.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0036.JPG">
+              <img src="Gallery/DSC_0036.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0038.JPG">
+              <img src="Gallery/DSC_0038.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0046.JPG">
+              <img src="Gallery/DSC_0046.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0047.JPG">
+              <img src="Gallery/DSC_0047.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0052.JPG">
+              <img src="Gallery/DSC_0052.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0054.JPG">
+              <img src="Gallery/DSC_0054.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0056.JPG">
+              <img src="Gallery/DSC_0056.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0057.JPG">
+              <img src="Gallery/DSC_0057.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0058.JPG">
+              <img src="Gallery/DSC_0058.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0059.JPG">
+              <img src="Gallery/DSC_0059.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0071.JPG">
+              <img src="Gallery/DSC_0071.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <div class="gallery"> <a target="_blank" href="Gallery/DSC_0073.JPG">
+              <img src="Gallery/DSC_0073.JPG" alt="" height="320" width="480"> </a>
+          </div>
+          <br>
+          <br>
+          <br>
+        </div>
+      </div>
+      <footer>
+        <p><a href="index.html">Home</a> | <a title="Ed Waller" href="EdWaller.html">Ed
+            Waller</a> | <a href="Members.html">Members</a>| <a href="Research.html">Research</a>
+          | <a href="RadiationScience.html">Radiation Science<br>
+          </a></p>
+        <p>&nbsp;<a href="http://www.css3templates.co.uk">design from
+            css3templates.co.uk</a></p>
+      </footer>
+      <!-- javascript at the bottom for fast page loading -->
+      <script type="text/javascript" src="js/jquery.js"></script>
+      <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+      <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+      <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+      $('.top').click(function() {$('html, body').animate({scrollTop:0}, 'fast'); return false;});
+    });
+  </script> </div>
+  </body>
+</html>

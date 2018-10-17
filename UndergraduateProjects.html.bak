@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Undergraduate Research Projects</title>
+    <meta name="description" content="website description">
+    <meta name="keywords" content="website keywords, website keywords">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- modernizr enables HTML5 elements and feature detects -->
+    <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+  </head>
+  <body>
+    <div id="main">
+      <header style="margin-top: -19px;">
+        <div id="logo">
+          <div id="logo_text">
+            <table style="width: 996px; height: 156px;" border="0">
+              <tbody>
+                <tr>
+                  <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
+                    <h1 style="width: 689px;"><a title="Home" href="index.html"><span
+                          class="logo_colour"><span style="color: white;">Health
+                            Physics and Environmental Safety<br>
+                          </span></span></a></h1>
+                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                          class="logo_colour"><span style="color: white;">Research
+                            Group<span style="color: #777777;"> <br>
+                            </span></span></span></a></h1>
+                    <h2><span style="color: #47433f;"><span style="font-family: 'Droid Sans',arial,sans-serif;"></span></span><br>
+                    </h2>
+                  </td>
+                  <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
+                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                    <br>
+                    <br>
+                    <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
+                        CHP<br>
+                      </span></h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+          </div>
+        </div>
+        <nav>
+          <div id="menu_container">
+            <ul class="sf-menu" id="nav">
+              <li><a title="Home" href="index.html">Home</a></li>
+              <li><a title="Ed Waller" href="EdWaller.html">Ed Waller</a></li>
+              <li><a title="Members" href="Members.html">Members</a></li>
+              <li><a title="Research" href="Research.html">Research</a></li>
+              <li><a title="Radiation Science" href="RadiationScience.html">Radiation
+                  Science</a></li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+      <div id="site_content">
+        <div id="sidebar_container">
+          <div class="sidebar"><a title="Research" href="Research.html"><br>
+            </a>
+            <h4><a title="Radiation Transport Simulations" href="Research.html">Research
+                Areas:</a></h4>
+            <ul>
+              <li><a title="Radiation Transport" href="RadiationTransport.html">Radiation
+                  Transport<br>
+                </a></li>
+              <li><a title="Radiation Biology" href="RadiationBiologyResearch.html">Radiation
+                  Biology</a></li>
+              <li><a title="Nuclear Security" href="NuclearSecurity.html">Nuclear
+                  Security</a></li>
+              <li><a title="Environmental Radiation Protection" href="EnvironmentalRadiationProtection.html">Environmental
+                  Radiation Protection<br>
+                </a></li>
+            </ul>
+            <h4><a title="Publications" href="publications.html">List of
+                Publications</a></h4>
+            <br>
+            <h4><a title="Undergraduate Projects" href="UndergraduateProjects.html">Undergraduate
+                Research Projects</a></h4>
+          </div>
+        </div>
+        <div class="content">
+          <h1>Undergraduate Research Projects</h1>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif">
+                <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"></font></font></p>
+                <h2><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><span
+                        style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Electron
+                          spin resonance (ESR) as an appropriate method in
+                          retrospective accident dosimetry</span></span></font></font></h2>
+              </font></font></font>
+          <div style="text-align: center;"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                  <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                      <img style="width: 325px; height: 302px;" title="alanine irradiated"
+                        src="LukasPictures/alanine.JPG"><img style="width: 374px; height: 282px;"
+                        title="alanine calibration curve" src="LukasPictures/Alanine_calibration_curve.PNG">
+                    </font></font></font></font></font></div>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                    face="Georgia, Times New Roman, Times, serif">
+                    <p><font face="Georgia, Times New Roman, Times, serif"><font
+                          face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Considering
+                            the increased usage of nuclear technologies in
+                            industrial, medical and military applications the
+                            risks and threats associated with these technologies
+                            will increase accordingly. Therefore a suitable
+                            method for a quick screening of people affected by
+                            large radiation accidents is of utter importance.
+                            This work investigates the performance of Electron
+                            Paramagnetic Resonance (EPR) in retrospective
+                            accident dosimetry and compares it to other
+                            conventional dosimetry methods like optically
+                            stimulated luminescence dosimetry (OSLD) or
+                            thermoluminescence dosimetry (TLD). The main focus
+                            was α-DL-Alanine powder dosimetry using EPR X-band
+                            to assess its performance regarding range, dose
+                            linearity, accuracy, and availability. Alanine
+                            pellets and phone protection glass were additionally
+                            studied for doses ranging from 50 mGy up to 4 Gy.
+                            Simultaneously, OSLs and TLDs were irradiated for
+                            comparison purposes and to obtain calibration curves
+                            for Alanine and TLDs. Alanine powder shows a linear
+                            dose response at a dose range from about 50 mGy up
+                            to 4 Gy. Despite OSLDs ́ superiority in accuracy for
+                            a dose range from about 10 mGy up to 4 Gy, its
+                            supralinearity above 3 Gy is a downside compared to
+                            Alanine powder. The performance of TLDs cannot keep
+                            pace with the other methods due to their high
+                            relative error. Nevertheless, the major advantage of
+                            Alanine powder is its unbeatable price of below Can
+                            $0.30 per dosimeter. The application of phone
+                            protection glass in retrospective accident dosimetry
+                            is not suitable since the lowest detected dose of
+                            about 12 Gy is far beyond the requirements for this
+                            field.</font></font></font></p>
+                    <p><br>
+                      <font face="Georgia, Times New Roman, Times, serif"><font
+                          face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                            <h2><font face="Georgia, Times New Roman, Times, serif"><font
+                                  face="Georgia, Times New Roman, Times, serif"><span
+                                    style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Experimental
+                                      Determination of Transfer Factors in
+                                      Non-Human Biota</span></span></font></font></h2>
+                            <font face="Georgia, Times New Roman, Times, serif"><font
+                                face="Georgia, Times New Roman, Times, serif"> <img
+                                  style="width: 680px; height: 302px;" title="transfer factors"
+                                  alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesali/2013-02-27%2012.09.25-1.jpg">
+                                <p><font face="Georgia, Times New Roman, Times, serif"><font
+                                      face="Georgia, Times New Roman, Times, serif"><font
+                                        face="Georgia, Times New Roman, Times, serif">Nuclide
+                                        transport through soil medium is a key
+                                        pathway of human exposure to radioactive
+                                        particulate; therefore a study was
+                                        conducted that employed stable isotopes.
+                                        Through several experiments, two types
+                                        of transfer factors were calculated for
+                                        grass and cat-grass using an X-Ray
+                                        Fluorescence machine. These transfer
+                                        factors were for the transport of
+                                        potassium acetate, lanthanum oxide, and
+                                        cesium chloride. Additionally, the
+                                        migration of these compounds were
+                                        observed and used for the calculation of
+                                        the transfer factors. One transfer
+                                        factor represented the amount of analyte
+                                        absorbed by a plant with respect to the
+                                        amount that was initially deposited onto
+                                        the soil at the beginning of the
+                                        experiment. The second type of transfer
+                                        factor represented the ratio of analyte
+                                        within the plant with respect to the
+                                        amount within the soil at any given time
+                                        within the experiment’s duration. The
+                                        transfer factors were found to be in
+                                        general agreement with theoretical
+                                        values and were within normal bounds of
+                                        variation</font></font></font></p>
+                              </font></font></font></font></font></p>
+                    <h2><font face="Georgia, Times New Roman, Times, serif"><font
+                          face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                              face="Georgia, Times New Roman, Times, serif"><font
+                                face="Georgia, Times New Roman, Times, serif"><span
+                                  style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Engineering
+                                    Design for the Use of Conventional Cameras
+                                    in a Radioactive Environment</span></span></font></font><span
+                              style="font-size:12.0pt;mso-bidi-font-size:11.0pt;
+line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-CA;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"></span></font></font></font></h2>
+                  </font></font></font></font></font>
+          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                  face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                      face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                      </font></font></font></font></font></font></p>
+          <h2><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                  face="Georgia, Times New Roman, Times, serif"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;
+line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-CA;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><img
+                      style="width: 677px; height: 283px;" title="Camera" alt=""
+                      src="images/camerashield.png"> </span></font></font></font></h2>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"> </font></font></font>
+          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                    face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                    </font></font></font> </font></font></font><font face="Georgia, Times New Roman, Times, serif"><font
+              face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                  face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                  </font></font>
+                <p>This BEng thesis consisted of designing of a shielding
+                  solution for conventional CCTV cameras in a radiation
+                  environment. The design process includes testing of cameras,
+                  image degradation analysis, economic analysis, radiation
+                  source beam profiling, Monte Carlo N-Particle (MCNP) transport
+                  code modelling and shielding solution detailed design. Through
+                  the use of testing and MCNP analysis the absorbed dose for
+                  various conventional cameras is both observed and modelled to
+                  determine the expected operation of the cameras in radiation
+                  environments. Image analysis uses both qualitative and
+                  quantitative methods of analysis in order to determine the
+                  ideal configuration for camera orientation within the
+                  shielding design, as well as identifying and analyzing the
+                  degradation of images when exposed to radiation sources. As
+                  part of the testing process a beam profile has been created to
+                  determine the ideal location for irradiation of the test
+                  cameras within the beam of the gamma source used for
+                  irradiation. Detailed designs are created from the ideal
+                  shielding design candidates identified as part of the Thesis 1
+                  design decisions. As information is analyzed design decisions
+                  were made in order to determine the best shielding design for
+                  the application of shielding conventional cameras. In addition
+                  to the design of a shielding application, economic analysis is
+                  performed to compare the shielding solution to radiation
+                  hardened cameras.</p>
+                <p><br>
+                </p>
+              </font></font></font></div>
+        <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+              face="Georgia, Times New Roman, Times, serif"> </font></font></font></div>
+      <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+            face="Georgia, Times New Roman, Times, serif">
+            <footer>
+              <p><a title="Home" href="index.html">Home</a> | <a title="Ed Waller"
+                  href="EdWaller.html">Ed Waller</a> | <a title="Members" href="Members.html">Members</a>|
+                <a title="Research" href="Research.html">Research</a> | <a title="Radiation Science"
+                  href="RadiationScience.html">Radiation Science<br>
+                </a></p>
+              <p>&nbsp;<a href="http://www.css3templates.co.uk">design from
+                  css3templates.co.uk</a></p>
+            </footer>
+            <!-- javascript at the bottom for fast page loading -->
+            <script type="text/javascript" src="js/jquery.js"></script>
+            <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+            <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+            <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+      $('.top').click(function() {$('html, body').animate({scrollTop:0}, 'fast'); return false;});
+    });
+  </script> </font></font></font></div>
+    <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+          face="Georgia, Times New Roman, Times, serif"> </font></font></font>
+  </body>
+</html>
