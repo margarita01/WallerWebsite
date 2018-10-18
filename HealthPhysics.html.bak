@@ -18,11 +18,11 @@
               <tbody>
                 <tr>
                   <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
-                    <h1 style="width: 689px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 689px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -30,7 +30,7 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -74,61 +74,41 @@
               <li><a href="Miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </div>
-          <img style="width: 222px; height: 166px;" title="ndt" alt="" src="images/NDT.jpg"><br>
+          <br>
         </div>
         <div class="content">
-          <h1>Non-Destructive Testing</h1>
-          <br>
-          <br>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              Testing is an examination, evaluation or inspection of an object
-              in a manner that will not impair the future usefulness of the
-              object. <br>
+          <h1>Health Physics</h1>
+          <p> <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><br>
+              </font></font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">Health
+                physics is the profession dedicated to the protection of humans
+                and their environment from the </font>harmful effects of
+              radiation while providing for its beneficial applications.&nbsp;
+              Health physicists (HPs) are found in universities, hospitals,
+              national laboratories, regulatory agencies, and industry. The
+              range of responsibilities of HPs is great.&nbsp; One observes HPs
+              doing anything from applied work involving periodic monitoring of
+              radiation fields and radioactive materials in the occupational
+              environment or the outdoors surrounding nuclear facilities, to
+              advanced cutting-edge research considering, for instance, the
+              patterns of energy deposition in human tissue produced by
+              different types of radiation or radiation-producing machines. <br>
             </font></p>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><em>OR</em></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-            </font><font face="Georgia, Times New Roman, Times, serif">testing
-              is: the development and application of technical methods to
-              examine materials or components in ways that do not impair
-              futureusefulness and serviceability in order to detect, locate,
-              measure and evaluate discontinuities, defects and other
-              imperfections; to assess integrity, properties and composition;
-              and to measure geometrical characteristics. (ASTM E1316-92, <em>Standard
-                Terminology for Nondestructive Examinations</em>). </font> </p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              testing (NDT) may be referred to as NDI (Inspection), and/or NDE
-              (Examination or Evaluation). </font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">In
-              general, the field of NDT employs radiographic, ultrasonic,
-              magnetic, particle, liquid penetrant, visual, thermal, acoustic,
-              differential pressure, etc., techniques.&nbsp;</font></p>
-          <p align="justify"><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#000099"><em>What
-                    is NDT used for?</em></font></strong></font><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong>To
-                detect flaws (internal or external);</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure thickness, density, etc.; <br>
-              </strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                &nbsp;determine structure or composition; or</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure or detect any of the object's properties.</strong></font></p>
-          <p><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#990033"><em>What
-                    detection methods are used for NDT?</em></font></strong></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Any physical
-              phenomena can be employed for NDT, as long as it does the
-              job.&nbsp; For example: simple sight or sound. NDT can involve
-              some form of electromagnetic energy or sonic or acoustic waves
-              (vibrational energy). </font></p>
-          <font face="Georgia, Times New Roman, Times, serif">Passive methods
-            include visual inspection or acoustic emission.&nbsp; Active methods
-            include Some form of energy is made incident on the object and is
-            monitored as it is re-emitted from the object.&nbsp; The re-emitted
-            signal can be transmitted, reflected, refracted, scattered, or there
-            can be secondary emission (activation) </font>
-          <p> </p>
+          <div style="text-align: center;"><img title="hp" alt="" src="images/health1.gif"></div>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
+              The field incorporates radioecology, dosimetry, instrumentation,
+              radiation physics, radiobiology, radiochemistry, and many more
+              sub-disciplines.&nbsp; If you are the kind of individual who
+              enjoys studying a broad range of disciplines and applying the
+              knowledge from many different areas to solve specific problems
+              then the profession of health physics may suit you fine. The
+              demand for entry-level HPs presently is very good. It appears that
+              this very high demand will persist for some time into the
+              future.&nbsp; Starting salaries are competitive with many
+              engineering disciplines.&nbsp; That science devoted to
+              recognition, evaluation, and control of all health hazards from
+              ionizing radiation.</font> </p>
+          <br>
         </div>
       </div>
       <footer>

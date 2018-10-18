@@ -22,15 +22,15 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
-                          class="logo_colour"><span style="color: white;">Research
-                            Group<span style="color: #777777;"> <br>
+                    <h1 style="width: 721px;"><a href="index.html"><span class="logo_colour"><span
+                            style="color: white;">Research Group<span style="color: #777777;">
+                              <br>
                             </span></span></span></a></h1>
                     <h2><span style="color: #47433f;"><span style="font-family: 'Droid Sans',arial,sans-serif;"></span></span><br>
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -91,8 +91,7 @@
             <tbody>
               <tr>
                 <td style="text-align: center; background-color: transparent; vertical-align: top; width: 143.6px;"><br>
-                  <img style="width: 134px; height: 168px;" title="hannah" alt=""
-                    src="images/profile.png"><br>
+                  <img style="width: 134px; height: 168px;" title="hannah" src="images/profile.png"><br>
                 </td>
                 <td style="text-align: left; background-color: transparent; vertical-align: top; width: 823.4px;">
                   <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Hannah
@@ -116,11 +115,10 @@
             <tbody>
               <tr>
                 <td style="text-align: center; background-color: transparent; vertical-align: top; width: 143.6px;"><br>
-                  <img style="width: 122px; height: 170px;" title="leknath" alt=""
-                    src="images/LekhGhimire.png"><br>
+                  <img style="width: 122px; height: 170px;" title="leknath" src="images/LekhGhimire.png"><br>
                 </td>
                 <td style="text-align: left; background-color: transparent; vertical-align: top; width: 823.4px;">
-                  <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Lekhnath
+                  <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Lekh
                         Ghimire</span></span></h3>
                   <h5><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Health
                         Physics, PhD<br>
@@ -155,7 +153,8 @@
                         Physics, MASc<br>
                       </span></span></h5>
                   <p><span style="color: black;">Topic: Optimization of Electron
-                      Paramagnetic Resonance Spectroscopy of Low Doses for Crustaceans.<br>
+                      Paramagnetic Resonance Spectroscopy of Low Doses for
+                      Crustaceans.<br>
                     </span><br>
                     <span style="color: black;">Research Interests:
                       Environmental monitoring.<span style="color: #47433f;"> <br>
@@ -170,8 +169,8 @@
             <tbody>
               <tr>
                 <td style="text-align: center; background-color: transparent; vertical-align: top; width: 143.6px;"><br>
-                  <img style="width: 124px; height: 170px;" title="margarita" alt="margarita"
-                    src="images/margarita.jpg"><br>
+                  <img style="width: 124px; height: 153px;" title="margarita" alt="margarita"
+                    src="images/Margaritacropped.JPG"><br>
                 </td>
                 <td style="text-align: left; background-color: transparent; vertical-align: top; width: 823.4px;">
                   <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Margarita
@@ -227,14 +226,6 @@
             </tbody>
           </table>
           <br>
-          <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Mark
-                Breitinger<br>
-              </span></span></h3>
-          <p><span style="color: black;">MASc: Transportation accidents</span></p>
-          <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Natasha
-                Galipeau<br>
-              </span></span></h3>
-          <p><span style="color: black;">MASc: Wound dose</span></p>
           <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">N.
                 Hamidi<br>
               </span></span></h3>
@@ -264,11 +255,14 @@
               Reality Capability for Visualizing Radiation Fields from In Situ
               Measurement</span></p>
           <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Kimberley
-                Fernandez<br>
+                Fernandes<br>
               </span></span></h3>
           <p><span style="color: black;">MASc: Phantom for mass casualty
-              detector evaluation<br>
-            </span></p>
+              detector evaluation</span></p>
+          <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Natasha
+                Galipeau<br>
+              </span></span></h3>
+          <p><span style="color: black;">MASc: Wound dose</span></p>
           <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Sharman
                 Perera<br>
               </span></span></h3>
@@ -309,6 +303,15 @@
           <p><span style="color: black;">Determining the effectiveness of
               nuclear security through computer simulation, 2016<br>
             </span></p>
+          <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Lukas
+                Felner, BSc<br>
+              </span></span></h3>
+          <h5><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Visiting
+                Scholar (Biomedical Engineering)<br>
+              </span></span></h5>
+          <span style="color: black;">Electron spin resonance (ESR) as an
+            appropriate method in retrospective accident dosimetry, 2017</span><br>
+          <br>
           <h3><span style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Jordan
                 Gilbert, MASc<br>
               </span></span></h3>

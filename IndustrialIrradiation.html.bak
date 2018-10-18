@@ -30,7 +30,7 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -74,61 +74,46 @@
               <li><a href="Miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </div>
-          <img style="width: 222px; height: 166px;" title="ndt" alt="" src="images/NDT.jpg"><br>
+          <br>
         </div>
         <div class="content">
-          <h1>Non-Destructive Testing</h1>
-          <br>
-          <br>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              Testing is an examination, evaluation or inspection of an object
-              in a manner that will not impair the future usefulness of the
-              object. <br>
+          <h1>Industrial Irradiation</h1>
+          <p> <font face="Georgia, Times New Roman, Times, serif"><br>
             </font></p>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><em>OR</em></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-            </font><font face="Georgia, Times New Roman, Times, serif">testing
-              is: the development and application of technical methods to
-              examine materials or components in ways that do not impair
-              futureusefulness and serviceability in order to detect, locate,
-              measure and evaluate discontinuities, defects and other
-              imperfections; to assess integrity, properties and composition;
-              and to measure geometrical characteristics. (ASTM E1316-92, <em>Standard
-                Terminology for Nondestructive Examinations</em>). </font> </p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              testing (NDT) may be referred to as NDI (Inspection), and/or NDE
-              (Examination or Evaluation). </font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">In
-              general, the field of NDT employs radiographic, ultrasonic,
-              magnetic, particle, liquid penetrant, visual, thermal, acoustic,
-              differential pressure, etc., techniques.&nbsp;</font></p>
-          <p align="justify"><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#000099"><em>What
-                    is NDT used for?</em></font></strong></font><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong>To
-                detect flaws (internal or external);</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure thickness, density, etc.; <br>
-              </strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                &nbsp;determine structure or composition; or</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure or detect any of the object's properties.</strong></font></p>
-          <p><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#990033"><em>What
-                    detection methods are used for NDT?</em></font></strong></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Any physical
-              phenomena can be employed for NDT, as long as it does the
-              job.&nbsp; For example: simple sight or sound. NDT can involve
-              some form of electromagnetic energy or sonic or acoustic waves
-              (vibrational energy). </font></p>
-          <font face="Georgia, Times New Roman, Times, serif">Passive methods
-            include visual inspection or acoustic emission.&nbsp; Active methods
-            include Some form of energy is made incident on the object and is
-            monitored as it is re-emitted from the object.&nbsp; The re-emitted
-            signal can be transmitted, reflected, refracted, scattered, or there
-            can be secondary emission (activation) </font>
-          <p> </p>
+          <p><font face="Georgia, Times New Roman, Times, serif">There are a
+              great many industries using radiation in the production, quality
+              assurance, and sterilization of products.</font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif">Radiation is
+              becoming a common tool in the production of synthetic materials
+              and natural rubber products (hardening and polymer </font><font face="Georgia, Times New Roman, Times, serif">cross-linking).&nbsp;
+              The radiation is used for annealing and polymerization without the
+              negative effects of heat processing.&nbsp; Most wiring in your
+              car's engine compartment have been through some sort of radiation
+              processing to make them more heat resistant.&nbsp; </font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif"> Radiation is
+              used to test spacecraft electronics for space environments.&nbsp;
+              In addition, radiation is used to "harden" spacecraft
+              semiconductors to be more radiation tolerant.&nbsp; In fact,
+              without radiation testing and hardening, most satellites would not
+              currently be operating now.</font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif">Various gauges
+              using radioactive materials are used to measure quantities such as
+              the thickness of materials, the flow rate of liquids, and the
+              level of material in tanks.&nbsp; Radiation is also used to </font><font
+              face="Georgia, Times New Roman, Times, serif">check the quality of
+              metals and welds (see Non-De</font><font face="Georgia, Times New Roman, Times, serif">structive
+              Testing) </font></p>
+          <p><font face="Georgia, Times New Roman, Times, serif">Radiation is
+              used to cold pasteurize food (see Food Irradiation) and sterilize
+              medical products. It is a very cost-effective way to destroy
+              bacteria and viruses in products intended for people with
+              suppressed immune systems.</font> </p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">The
+              other common use of industrial irradiation is for inspection of
+              packages. For example, every time you go to the airport, your
+              luggage is interrogated with radiation. The industrial
+              applications are everywhere!</font></p>
+          <font face="Georgia, Times New Roman, Times, serif"><em> </em></font>
         </div>
       </div>
       <footer>

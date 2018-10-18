@@ -18,11 +18,11 @@
               <tbody>
                 <tr>
                   <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
-                    <h1 style="width: 689px;"><a title="Home" href="index.html"><span
+                    <h1 style="width: 689px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -30,7 +30,7 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -74,60 +74,50 @@
               <li><a href="Miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </div>
-          <img style="width: 222px; height: 166px;" title="ndt" alt="" src="images/NDT.jpg"><br>
+          <br>
         </div>
         <div class="content">
-          <h1>Non-Destructive Testing</h1>
+          <h1>Environmental</h1>
           <br>
-          <br>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              Testing is an examination, evaluation or inspection of an object
-              in a manner that will not impair the future usefulness of the
-              object. <br>
-            </font></p>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><em>OR</em></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-            </font><font face="Georgia, Times New Roman, Times, serif">testing
-              is: the development and application of technical methods to
-              examine materials or components in ways that do not impair
-              futureusefulness and serviceability in order to detect, locate,
-              measure and evaluate discontinuities, defects and other
-              imperfections; to assess integrity, properties and composition;
-              and to measure geometrical characteristics. (ASTM E1316-92, <em>Standard
-                Terminology for Nondestructive Examinations</em>). </font> </p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              testing (NDT) may be referred to as NDI (Inspection), and/or NDE
-              (Examination or Evaluation). </font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">In
-              general, the field of NDT employs radiographic, ultrasonic,
-              magnetic, particle, liquid penetrant, visual, thermal, acoustic,
-              differential pressure, etc., techniques.&nbsp;</font></p>
-          <p align="justify"><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#000099"><em>What
-                    is NDT used for?</em></font></strong></font><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong>To
-                detect flaws (internal or external);</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure thickness, density, etc.; <br>
-              </strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                &nbsp;determine structure or composition; or</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure or detect any of the object's properties.</strong></font></p>
-          <p><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#990033"><em>What
-                    detection methods are used for NDT?</em></font></strong></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Any physical
-              phenomena can be employed for NDT, as long as it does the
-              job.&nbsp; For example: simple sight or sound. NDT can involve
-              some form of electromagnetic energy or sonic or acoustic waves
-              (vibrational energy). </font></p>
-          <font face="Georgia, Times New Roman, Times, serif">Passive methods
-            include visual inspection or acoustic emission.&nbsp; Active methods
-            include Some form of energy is made incident on the object and is
-            monitored as it is re-emitted from the object.&nbsp; The re-emitted
-            signal can be transmitted, reflected, refracted, scattered, or there
-            can be secondary emission (activation) </font>
+          <p> </p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">The
+              world around us&nbsp; is radioactive and has been since it was
+              created.&nbsp; Over 60 radionuclides (radioactive elements) can be
+              found in nature, and they can be placed in three general
+              categories: </font></p>
+          <ul>
+            <li><font face="Georgia, Times New Roman, Times, serif"><strong>Primordial</strong>
+                - <em>from before the creation of the Earth</em></font></li>
+            <li><font face="Georgia, Times New Roman, Times, serif"><strong>Cosmogenic</strong>
+                - <em>formed as a result of cosmic ray interactions</em></font></li>
+            <li><font face="Georgia, Times New Roman, Times, serif"><strong>Human
+                  produced</strong> - <em>enhanced or formed due to human
+                  actions (minor amounts compared to natural) </em></font></li>
+          </ul>
+          <p><font face="Georgia, Times New Roman, Times, serif">Radionuclides
+              are found naturally in air, water and soil.&nbsp; They are even
+              found in us, being that we are products of our environment.&nbsp;
+              Each day, every person ingests and inhales radionuclides from air,
+              food and water. Natural radioactivity is common in the rocks and
+              soil that make up the planet, in water and oceans, and in building
+              materials and homes.&nbsp; There is nowhere on Earth that you can
+              not find Natural Radioactivity.&nbsp; Radioactive elements are
+              often called radioactive isotopes, radionuclides or just
+              nuclides.&nbsp; There are over 1,500 different radioactive
+              nuclides.</font> </p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
+              Radiation scientists who work in environmental monitoring are
+              typically concerned with ensuring that no radionuclides are being
+              introduced into the environment by industrial processes, where
+              they could possibly affect biota or enter into the human food
+              chain.&nbsp; They typically monitor air, water and other so-called
+              valued ecosystem components (VECs).&nbsp; Persons performing
+              environmental monitoring use various types of equipment to
+              determine low levels of radioactivity.</font></p>
+          <p align="center"><font face="Georgia, Times New Roman, Times, serif"><br>
+              <strong><em>Environmentally speaking, keep this in mind:&nbsp; </em></strong><br>
+              <em><strong><font color="#009900" size="+2">I'm radioactive, and
+                    so are you!</font></strong></em></font></p>
           <p> </p>
         </div>
       </div>

@@ -123,18 +123,19 @@
                 </td>
               </tr>
               <tr>
-                <td>
-                  <h4 style=" text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><span
-                        style="font-weight: bold;">Nuclear Security</span></a></h4>
-                  <div style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><img
-                        alt="nuclear security" style="width: 221px; height: 219px;"
+                <td style="background-color: white;">
+                  <h4 style="text-align: center; background-color: white;"><a title="Nuclear Security"
+                      href="NuclearSecurity.html"><span style="font-weight: bold;">Nuclear
+                        Security</span></a></h4>
+                  <div style="text-align: center; background-color: white;"><a title="Nuclear Security"
+                      href="NuclearSecurity.html"><img alt="nuclear security" style="width: 221px; height: 219px;"
                         title="nuclear security" src="picturesnick/3dcropped.PNG"></a></div>
                 </td>
-                <td>
-                  <h4 style=" text-align: center;"><a title="Radiation Detection"
+                <td style="background-color: white;">
+                  <h4 style="text-align: center; background-color: white;"><a title="Radiation Detection"
                       href="Detection.html"><span style="font-weight: bold;">Radiation
                         Detection</span></a></h4>
-                  <div style="text-align: center;"><a title="Radiation Detection"
+                  <div style="text-align: center; background-color: white;"><a title="Radiation Detection"
                       href="Detection.html"><img alt="radiation detection" style="width: 224px; height: 224px;"
                         title="radiation detection" src="Callanpictures/IMG_20170628_104744.jpg"></a></div>
                 </td>

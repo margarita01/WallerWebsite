@@ -56,18 +56,17 @@
           </div>
         </nav>
       </header>
+      
       <div id="site_content">
         <div id="sidebar_container">
           <div class="sidebar"><a title="Radiation Transport" href="RadiationTransport.html">
             </a><a title="Radiation Transport Simulations" href="RadiationTransport.html"><br>
             </a>
-            <h4><a title="Research" href="Research.html">Research
-                Areas:</a></h4>
+            <h4><a title="Research" href="Research.html">Research Areas:</a></h4>
             <ul>
               <li><a title="Radiation Transport" href="RadiationTransport.html">Radiation
                   Transport</a></li>
-              <li><a title="EPR" href="EPRResearch.html">EPR
-                  Dosimetry</a></li>
+              <li><a title="EPR" href="EPRResearch.html">EPR Dosimetry</a></li>
               <li><a title="Environmental Modelling" href="EnvironmentalModelling.html">Environmental
                   Modelling<br>
                 </a></li>
@@ -79,8 +78,8 @@
                   Detection<br>
                 </a></li>
             </ul>
-            <h4><a title="Publications" href="publications.html">List
-                of Publications</a></h4>
+            <h4><a title="Publications" href="publications.html">List of
+                Publications</a></h4>
             <br>
             <h4><a title="Undergraduate Projects" href="UndergraduateProjects.html">Undergraduate
                 Research Projects</a></h4>
@@ -143,8 +142,7 @@
                   its security allows testing, validation and optimization in
                   between live exercises to further improve security.</font></font></font></p>
           <p style="text-align: justify;"><br>
-            <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                  face="Georgia, Times New Roman, Times, serif"></font></font></font></p>
+          </p>
           <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                   face="Georgia, Times New Roman, Times, serif"> </font></font></font></p>
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font

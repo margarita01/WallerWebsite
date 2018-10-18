@@ -22,7 +22,7 @@
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
-                    <h1 style="width: 721px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                    <h1 style="width: 721px;"><a title="Home" href="index.html"><span
                           class="logo_colour"><span style="color: white;">Research
                             Group<span style="color: #777777;"> <br>
                             </span></span></span></a></h1>
@@ -30,7 +30,7 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -60,18 +60,20 @@
         <div id="sidebar_container">
           <div class="sidebar"><a title="Research" href="Research.html"><br>
             </a>
-            <h4><a title="Radiation Transport Simulations" href="Research.html">Research
-                Areas:</a></h4>
+            <h4><a title="Research" href="Research.html">Research Areas:</a></h4>
             <ul>
               <li><a title="Radiation Transport" href="RadiationTransport.html">Radiation
-                  Transport<br>
+                  Transport</a></li>
+              <li><a title="EPR" href="EPRResearch.html">EPR Dosimetry</a></li>
+              <li><a title="Environmental Modelling" href="EnvironmentalModelling.html">Environmental
+                  Modelling<br>
                 </a></li>
               <li><a title="Radiation Biology" href="RadiationBiologyResearch.html">Radiation
                   Biology</a></li>
               <li><a title="Nuclear Security" href="NuclearSecurity.html">Nuclear
                   Security</a></li>
-              <li><a title="Environmental Radiation Protection" href="EnvironmentalRadiationProtection.html">Environmental
-                  Radiation Protection<br>
+              <li><a title="Environmental Radiation Protection" href="Detection.html">Radiation
+                  Detection<br>
                 </a></li>
             </ul>
             <h4><a title="Publications" href="publications.html">List of
@@ -139,56 +141,55 @@
                     <p><br>
                       <font face="Georgia, Times New Roman, Times, serif"><font
                           face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
-                            <h2><font face="Georgia, Times New Roman, Times, serif"><font
-                                  face="Georgia, Times New Roman, Times, serif"><span
-                                    style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Experimental
-                                      Determination of Transfer Factors in
-                                      Non-Human Biota</span></span></font></font></h2>
-                            <font face="Georgia, Times New Roman, Times, serif"><font
-                                face="Georgia, Times New Roman, Times, serif"> <img
-                                  style="width: 680px; height: 302px;" title="transfer factors"
-                                  alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesali/2013-02-27%2012.09.25-1.jpg">
-                                <p><font face="Georgia, Times New Roman, Times, serif"><font
-                                      face="Georgia, Times New Roman, Times, serif"><font
-                                        face="Georgia, Times New Roman, Times, serif">Nuclide
-                                        transport through soil medium is a key
-                                        pathway of human exposure to radioactive
-                                        particulate; therefore a study was
-                                        conducted that employed stable isotopes.
-                                        Through several experiments, two types
-                                        of transfer factors were calculated for
-                                        grass and cat-grass using an X-Ray
-                                        Fluorescence machine. These transfer
-                                        factors were for the transport of
-                                        potassium acetate, lanthanum oxide, and
-                                        cesium chloride. Additionally, the
-                                        migration of these compounds were
-                                        observed and used for the calculation of
-                                        the transfer factors. One transfer
-                                        factor represented the amount of analyte
-                                        absorbed by a plant with respect to the
-                                        amount that was initially deposited onto
-                                        the soil at the beginning of the
-                                        experiment. The second type of transfer
-                                        factor represented the ratio of analyte
-                                        within the plant with respect to the
-                                        amount within the soil at any given time
-                                        within the experiment’s duration. The
-                                        transfer factors were found to be in
-                                        general agreement with theoretical
-                                        values and were within normal bounds of
-                                        variation</font></font></font></p>
-                              </font></font></font></font></font></p>
+                          </font></font></font></p>
                     <h2><font face="Georgia, Times New Roman, Times, serif"><font
                           face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                               face="Georgia, Times New Roman, Times, serif"><font
                                 face="Georgia, Times New Roman, Times, serif"><span
-                                  style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Engineering
-                                    Design for the Use of Conventional Cameras
-                                    in a Radioactive Environment</span></span></font></font><span
-                              style="font-size:12.0pt;mso-bidi-font-size:11.0pt;
+                                  style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Experimental
+                                    Determination of Transfer Factors in
+                                    Non-Human Biota</span></span></font></font></font></font></font></h2>
+                    <font face="Georgia, Times New Roman, Times, serif"> <font
+                        face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
+                          <img style="width: 680px; height: 302px;" title="transfer factors"
+                            alt="" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/picturesali/2013-02-27%2012.09.25-1.jpg">
+                          <p><font face="Georgia, Times New Roman, Times, serif"><font
+                                face="Georgia, Times New Roman, Times, serif"><font
+                                  face="Georgia, Times New Roman, Times, serif">Nuclide
+                                  transport through soil medium is a key pathway
+                                  of human exposure to radioactive particulate;
+                                  therefore a study was conducted that employed
+                                  stable isotopes. Through several experiments,
+                                  two types of transfer factors were calculated
+                                  for grass and cat-grass using an X-Ray
+                                  Fluorescence machine. These transfer factors
+                                  were for the transport of potassium acetate,
+                                  lanthanum oxide, and cesium chloride.
+                                  Additionally, the migration of these compounds
+                                  were observed and used for the calculation of
+                                  the transfer factors. One transfer factor
+                                  represented the amount of analyte absorbed by
+                                  a plant with respect to the amount that was
+                                  initially deposited onto the soil at the
+                                  beginning of the experiment. The second type
+                                  of transfer factor represented the ratio of
+                                  analyte within the plant with respect to the
+                                  amount within the soil at any given time
+                                  within the experiment’s duration. The transfer
+                                  factors were found to be in general agreement
+                                  with theoretical values and were within normal
+                                  bounds of variation</font></font></font></p>
+                        </font></font></font></font></font>
+                <p></p>
+                <h2><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                        face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                            face="Georgia, Times New Roman, Times, serif"><span
+                              style="color: #444444;"><span style="font-family: 'Droid Sans',arial,sans-serif;">Engineering
+                                Design for the Use of Conventional Cameras in a
+                                Radioactive Environment</span></span></font></font><span
+                          style="font-size:12.0pt;mso-bidi-font-size:11.0pt;
 line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-CA;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"></span></font></font></font></h2>
-                  </font></font></font></font></font>
+              </font></font></font>
           <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                   face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                       face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">

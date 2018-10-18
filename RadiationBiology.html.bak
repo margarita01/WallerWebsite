@@ -30,7 +30,7 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -74,61 +74,40 @@
               <li><a href="Miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </div>
-          <img style="width: 222px; height: 166px;" title="ndt" alt="" src="images/NDT.jpg"><br>
+          <img style="width: 154px; height: 146px;" title="radbi" alt="" src="images/radiat5.gif"><br>
         </div>
         <div class="content">
-          <h1>Non-Destructive Testing</h1>
+          <h1>Radiation Biology</h1>
           <br>
           <br>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              Testing is an examination, evaluation or inspection of an object
-              in a manner that will not impair the future usefulness of the
-              object. <br>
-            </font></p>
-          <p> <font face="Georgia, Times New Roman, Times, serif"><em>OR</em></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-            </font><font face="Georgia, Times New Roman, Times, serif">testing
-              is: the development and application of technical methods to
-              examine materials or components in ways that do not impair
-              futureusefulness and serviceability in order to detect, locate,
-              measure and evaluate discontinuities, defects and other
-              imperfections; to assess integrity, properties and composition;
-              and to measure geometrical characteristics. (ASTM E1316-92, <em>Standard
-                Terminology for Nondestructive Examinations</em>). </font> </p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Nondestructive
-              testing (NDT) may be referred to as NDI (Inspection), and/or NDE
-              (Examination or Evaluation). </font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">In
-              general, the field of NDT employs radiographic, ultrasonic,
-              magnetic, particle, liquid penetrant, visual, thermal, acoustic,
-              differential pressure, etc., techniques.&nbsp;</font></p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Radiation
+              biology is the study of the ways in which radiation affects
+              biological tissue and organisms.&nbsp; </font></p>
+          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
+              Early researchers sought reliable ways to predict and measure the
+              effects of radiation on living tissues. This was particularly
+              important in attempts to compare different methods of
+              administration, as in the early saturation vs. fractionation
+              controversy. Throughout the century, radiation biologists have
+              worked in active cooperation with clinicians to refine our
+              knowledge of the varying effects of radiation on the living
+              body.&nbsp; Today both <em>in vitro</em> and <em>in vivo</em>
+              observations have enriched our understanding of these processes,
+              and point to a future which includes cellular and genetic promise
+              in radiation response modifiers and increasing precision in
+              applying radiation to disease. Current trends in radiation biology
+              include studies in radiation hormesis (simply stated: <em>a
+                little radiation may be good for you</em>).</font></p>
           <p align="justify"><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#000099"><em>What
-                    is NDT used for?</em></font></strong></font><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong>To
-                detect flaws (internal or external);</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure thickness, density, etc.; <br>
-              </strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                &nbsp;determine structure or composition; or</strong></font></p>
-          <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><strong>To
-                measure or detect any of the object's properties.</strong></font></p>
-          <p><br>
-            <font face="Georgia, Times New Roman, Times, serif"><strong><font color="#990033"><em>What
-                    detection methods are used for NDT?</em></font></strong></font></p>
-          <p><font face="Georgia, Times New Roman, Times, serif">Any physical
-              phenomena can be employed for NDT, as long as it does the
-              job.&nbsp; For example: simple sight or sound. NDT can involve
-              some form of electromagnetic energy or sonic or acoustic waves
-              (vibrational energy). </font></p>
-          <font face="Georgia, Times New Roman, Times, serif">Passive methods
-            include visual inspection or acoustic emission.&nbsp; Active methods
-            include Some form of energy is made incident on the object and is
-            monitored as it is re-emitted from the object.&nbsp; The re-emitted
-            signal can be transmitted, reflected, refracted, scattered, or there
-            can be secondary emission (activation) </font>
-          <p> </p>
+            <font face="Georgia, Times New Roman, Times, serif">Some of the
+              first radiation biology observations were by Bergonie and
+              Tribondeau in 1906. These French researchers' work on rodent
+              testes produced a widely promulgated "law", stated as: s<em>ensitivity
+                to radiation varies directly with reproductive capacity and
+                inversely with differentiation (maturity)</em>. Dessauer's seven
+              laws of homogeneous irradiation in 1921 expanded these concepts,
+              further modified by Ancel and Vitemburger in 1925 to include
+              variable times in the appearance of radiation effects. </font></p>
         </div>
       </div>
       <footer>
