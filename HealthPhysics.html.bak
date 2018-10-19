@@ -18,7 +18,7 @@
               <tbody>
                 <tr>
                   <td style="background-color: transparent; text-align: left; vertical-align: middle; width: 737.733px;">
-                    <h1 style="width: 689px;"><a href="file:///C:/Users/100512310/Dropbox/R&amp;M/csstrees/index.html"><span
+                    <h1 style="width: 689px;"><a href="index.html"><span
                           class="logo_colour"><span style="color: white;">Health
                             Physics and Environmental Safety<br>
                           </span></span></a></h1>
@@ -30,7 +30,7 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 187px; height: 59px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
+                      style="width: 198px; height: 73px;" title="uoit" alt="" src="images/uoitlogo.png"><br>
                     <br>
                     <br>
                     <h2><span style="color: white;">Ed Waller PhD, PEng, CAIH,
@@ -112,7 +112,7 @@
         </div>
       </div>
       <footer>
-        <p><a href="index.html">Home</a> | <a href="file:///home/margarita/webpage/csstrees/EdWaller.html">Ed
+        <p><a href="index.html">Home</a> | <a href="EdWaller.html">Ed
             Waller</a> | <a href="Members.html">Members</a>| <a href="Research.html">Research</a>
           | <a href="RadiationScience.html">Radiation Science<br>
           </a></p>

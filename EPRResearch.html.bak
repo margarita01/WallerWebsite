@@ -30,7 +30,7 @@
                     </h2>
                   </td>
                   <td style="text-align: right; vertical-align: top; background-color: transparent; width: 236.267px;"><img
-                      style="width: 187px; height: 59px;" title="uoit" alt="uoit"
+                      style="width: 198px; height: 73px;" title="uoit" alt="uoit"
                       src="images/uoitlogo.png"><br>
                     <br>
                     <br>
@@ -93,36 +93,48 @@
           </font>
           <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">M.
                 Tzivaki</span></span></h5>
-          <font face="Georgia, Times New Roman, Times, serif"> <br>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Work
-                in progress... <br>
-              </font></p>
-            <p align="justify"><br>
-              <font face="Georgia, Times New Roman, Times, serif"> </font></p>
-            <h2><font face="Georgia, Times New Roman, Times, serif"><span style="color: #444444;"><span
-                    style="font-family: 'Droid Sans',arial,sans-serif;">Alanine
-                    Powder as a Reference Dosimeter<br>
-                  </span></span></font></h2>
-            <font face="Georgia, Times New Roman, Times, serif"> </font> </font>
-          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">L.
-                Felner, A. Hassan, M. Tzivaki</span></span><br>
-          </h5>
-          <font face="Georgia, Times New Roman, Times, serif"> <br>
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif">Work
-                in Progress....</font></p>
-          </font><font face="Georgia, Times New Roman, Times, serif">
-            <p align="justify"><font face="Georgia, Times New Roman, Times, serif"><br>
-              </font></p>
+          <img style="width: 346px; height: 219px;" title="eastern elliptio" alt=""
+            src="picturesmargarita/elliptio.png"><font face="Georgia, Times New Roman, Times, serif"><img
+              style="width: 348px; height: 219px;" title="zebra mussels" alt=""
+              src="picturesmargarita/zebra.png"><br>
           </font>
-          <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                  face="Georgia, Times New Roman, Times, serif"> </font></font></font></p>
-          <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
-                face="Georgia, Times New Roman, Times, serif">
-                <p><br>
-                </p>
-                <p><br>
-                </p>
-              </font></font></font></div>
+          <div style="text-align: justify;"><font face="Georgia, Times New Roman, Times, serif">
+              <p align="justify"><font face="Georgia, Times New Roman, Times, serif">The
+                  EPR spectra and dose response of one endemic and one invasive
+                  species of bivalve mollusks, eastern elliptio (Elliptio
+                  complanata) and zebra mussel (Dreissena polymorpha) are
+                  studied with the intention of determining their usefulness as
+                  indicators of radioactive material contamination in the
+                  environment. After irradiation the Eastern elliptio shells
+                  show a composite spectrum with overlapping signals, and while
+                  it may be used for identifying the specimens, it is inaccurate
+                  for dose estimation. Zebra mussels have a strong EPR signal,
+                  even when unirradiated, that can be measured and used for
+                  determining the dose response. For zebra mussels the larger
+                  grain sizes showed a larger deviation of signal height
+                  measurements which was attributed to a greater variance in
+                  packing densities. The optimal grain size for measurements of
+                  zebra mussels was determined to be between 0.1 mm and 0.5 mm.</font></p>
+            </font></div>
+          <font face="Georgia, Times New Roman, Times, serif"></font><font face="Georgia, Times New Roman, Times, serif">
+            <h2><font face="Georgia, Times New Roman, Times, serif"><span style="color: #444444;"><span
+                    style="font-family: 'Droid Sans',arial,sans-serif;">Cs-137
+                    Beam Profile Mapping with Alanine Powder</span></span></font></h2>
+            <font face="Georgia, Times New Roman, Times, serif"> </font> </font>
+          <h5><span style="color: #444444;"><span style="font-family: Georgia,Times New Roman,Times,serif;">A.
+                Hassan</span></span></h5>
+          <font face="Georgia, Times New Roman, Times, serif"> <img style="width: 435px; height: 227px;"
+              title="source profile" src="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/amnapictures/sourceprofile.png"><br>
+            <p align="justify">A research experiment was implemented to develop
+              a visual representation of a beam profile using alanine powder as
+              dosimeters. Electron Paramagnetic Resonance (EPR) was used to
+              measure irradiated alanine samples using a Cs-137 source.&nbsp;
+              Four different experiments were conducted with the alanine samples
+              at 24cm and 34cm, with various aluminum shielding thicknesses,
+              from the source to achieve a compacted beam profile of the Cs-137
+              source used at UOIT. </p>
+          </font><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
+                face="Georgia, Times New Roman, Times, serif"></font></font></font></div>
         <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
               face="Georgia, Times New Roman, Times, serif"> </font></font></font></div>
       <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
@@ -130,9 +142,8 @@
             <footer>
               <p><a title="Home" href="index.html">Home</a> | <a title="Ed Waller"
                   href="EdWaller.html">Ed Waller</a> | <a title="Members" href="Members.html">Members</a>|
-                <a title="Research" href="Research.html">Research</a> |
-                <a title="Radiation Science" href="RadiationScience.html">Radiation
-                  Science<br>
+                <a title="Research" href="Research.html">Research</a> | <a title="Radiation Science"
+                  href="RadiationScience.html">Radiation Science<br>
                 </a></p>
               <p>&nbsp;<a href="http://www.css3templates.co.uk">design from
                   css3templates.co.uk</a></p>
