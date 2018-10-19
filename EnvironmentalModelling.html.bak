@@ -231,10 +231,9 @@
             <tbody>
               <tr>
                 <td style="background-color: white; text-align: center;"><a title="A comparison of Environmental Modelling Approaches on the Case-study of the Chalk River Laboratories Site"
-                    href="file:///home/margarita/Dropbox/Tzivaki%20PhD%20research/WallerWebpage/WallerWebpageFull/files/EnvModellingMTzivaki.pdf"><font
-                      face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><span
-                          style="font-weight: bold; color: #006600;"><img style="width: 44px; height: 44px;"
-                            src="images/Pdf.png"></span></font></font></a></td>
+                    href="files/EnvModellingMTzivaki.pdf"><font face="Georgia, Times New Roman, Times, serif"><font
+                        face="Georgia, Times New Roman, Times, serif"><span style="font-weight: bold; color: #006600;"><img
+                            style="width: 44px; height: 44px;" src="images/Pdf.png"></span></font></font></a></td>
                 <td style="background-color: white; text-align: center;"><a target="_top"
                     title="A comparison of Environmental Modelling Approaches on the Case-study of the Chalk River Laboratories Site"
                     href="files/EnvModellingMTzivaki.pdf"><span style="color: black;"><font
@@ -266,8 +265,30 @@
           <font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                 face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif"><font
                     face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
-                      <font face="Georgia, Times New Roman, Times, serif">
-                        <p>Work in progress.</p>
+                      <font face="Georgia, Times New Roman, Times, serif"> <img
+                          style="width: 422px; height: 295px;" title="SR-90" alt=""
+                          src="pictureshannah/Sr-90.JPG">
+                        <p>In an effort to create a more accurate MCNP model for
+                          the purpose of simulating radiation dose to fish in
+                          the Maskinonge Lake basin, it is important to
+                          duplicate the real environment as closely as possible.
+                          One of the important components of the model is the
+                          composition of the sediment. This work focuses on how
+                          the various compositions of sand, which is frequently
+                          a component of sediment, change the detected energy.
+                          Soil composition descriptions will generally allude to
+                          sand, but frequently fail to classify the type of
+                          sand. Since sand composition can be highly variable,
+                          it is important to model the correct type of sand.
+                          Sand can be classified into two main groups, carbonate
+                          sands and siliciclastic sands. Siliciclastic sands are
+                          the type commonly seen in the Maskinonge Lake basin
+                          and the various types of siliciclastic sands:
+                          Orthoquartzite, Lithic, Graywacke, and Arkose were
+                          modeled with a Tritium and Strontium-90 source term.
+                          The resulting energy was collected in a pulse height
+                          tally, and it was found that a more accurate model was
+                          produced when using the correct sand composition.</p>
                       </font></font></font></font></font></font>
             <p><font face="Georgia, Times New Roman, Times, serif"><font face="Georgia, Times New Roman, Times, serif">
                 </font></font></p>

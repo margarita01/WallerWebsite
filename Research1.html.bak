@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Research</title>
+    <title>Research1</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -138,11 +138,8 @@
                         title="radiation biology" src="picturesmargarita/eggscropped.png"></a></h4>
                 </td>
                 <td style="width: 50%; background-color: transparent;">
-                  <h4 style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><span
-                        style="font-weight: bold;">Nuclear <br>
-                      </span></a></h4>
-                  <h4 style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><span
-                        style="font-weight: bold;">Security</span></a></h4>
+                  <h4 style="text-align: center;"><a title="Nuclear Security"
+                      href="NuclearSecurity.html"><span   style="font-weight: bold;">Nuclear Security</span></a></h4>
                   <h4 style="  text-align: center;"><a title="Nuclear Security"
                       href="NuclearSecurity.html"><span style="font-weight: bold;"></span></a><a
                       title="Nuclear Security" href="NuclearSecurity.html"><img

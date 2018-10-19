@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Research</title>
+    <title>Research1</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -85,7 +85,7 @@
         </div>
         <div class="content">
           <h1>Research</h1>
-          <table style="width: 700px; height: 558px;" border="0">
+          <table style="width: 704px;" border="0">
             <tbody>
               <tr>
                 <td style="width: 50%; background-color: transparent; text-align: center;">
@@ -94,12 +94,25 @@
                   <a title="Radiation Transport Modelling" href="RadiationTransport.html"><img
                       alt="fuel bundle" style="width: 224px; height: 224px;" title="fuel bundle"
                       src="picturesjordan/3D%203.JPG"></a> </td>
-                <td style="width: 50%; background-color: transparent;">
+                <td style="width: 50%; background-color: transparent; height: 255px;">
                   <h4 style=" text-align: center;"><a title="EPR " href="EPRResearch.html"><span
-                        style="font-weight: bold;">EPR Dosimetry</span></a></h4>
+                        style="font-weight: bold;">EPR <br>
+                      </span></a></h4>
+                  <h4 style=" text-align: center;"><a title="EPR " href="EPRResearch.html"><span
+                        style="font-weight: bold;">Dosimetry</span></a></h4>
                   <div style="text-align: center;"><a title="EPR" href="EPRResearch.html"><img
                         alt="EPR" style="width: 224px; height: 224px;" title="EPR"
                         src="images/epr.png"></a></div>
+                </td>
+                <td style="width: 50%; background-color: transparent;">
+                  <h4 style="text-align: center; background-color: white;"><a title="Radiation Detection"
+                      href="Detection.html"><span style="font-weight: bold;">Radiation
+                        <br> </span></a></h4>
+                  <h4 style="text-align: center; background-color: white;"><a title="Radiation Detection"
+                      href="Detection.html"><span style="font-weight: bold;">Detection</span></a></h4>
+                  <div style="text-align: center; background-color: white;"><a title="Radiation Detection"
+                      href="Detection.html"><img alt="radiation detection" style="width: 224px; height: 224px;"
+                        title="radiation detection" src="Callanpictures/IMG_20170628_104744.jpg"></a></div>
                 </td>
               </tr>
               <tr>
@@ -108,36 +121,33 @@
                       href="EnvironmentalModelling.html"><span style="font-weight: bold;">Environmental
                         Modelling</span></a></h4>
                   <div style="text-align: center;"><a title="Environmental Modelling"
-                      href="EnvironmentalRadiationProtection.html"><img alt="Environmental Modelling"
+                      href="EnvironmentalModelling.html"><img alt="Environmental Modelling"
                         style="width: 222px; height: 222px;" title="Environmental Modelling"
                         src="picturesmargarita/mcnpPerch.png"></a></div>
                 </td>
                 <td style="width: 50%; background-color: transparent;">
                   <h4 style="  text-align: center;"><a title="Radiation Biology"
                       href="RadiationBiologyResearch.html"><span style="font-weight: bold;">Radiation
-                        Biology</span></a></h4>
-                  <div style="text-align: center;"><a title="Radiation Biology"
-                      href="RadiationBiologyResearch.html"><img alt="radiation biology"
-                        style="width: 224px; height: 224px;" title="radiation biology"
-                        src="picturesmargarita/eggscropped.png"></a></div>
+                        <br></span></a></h4>
+                  <h4 style="  text-align: center;"><a title="Radiation Biology"
+                      href="RadiationBiologyResearch.html"><span style="font-weight: bold;">Biology</span></a></h4>
+                  <h4 style="  text-align: center;"><a title="Radiation Biology"
+                      href="RadiationBiologyResearch.html"><span style="font-weight: bold;"></span></a><a
+                      title="Radiation Biology" href="RadiationBiologyResearch.html"><img
+                        alt="radiation biology" style="width: 224px; height: 221px;"
+                        title="radiation biology" src="picturesmargarita/eggscropped.png"></a></h4>
                 </td>
-              </tr>
-              <tr>
-                <td style="background-color: white;">
-                  <h4 style="text-align: center; background-color: white;"><a title="Nuclear Security"
-                      href="NuclearSecurity.html"><span style="font-weight: bold;">Nuclear
-                        Security</span></a></h4>
-                  <div style="text-align: center; background-color: white;"><a title="Nuclear Security"
-                      href="NuclearSecurity.html"><img alt="nuclear security" style="width: 221px; height: 219px;"
-                        title="nuclear security" src="picturesnick/3dcropped.PNG"></a></div>
-                </td>
-                <td style="background-color: white;">
-                  <h4 style="text-align: center; background-color: white;"><a title="Radiation Detection"
-                      href="Detection.html"><span style="font-weight: bold;">Radiation
-                        Detection</span></a></h4>
-                  <div style="text-align: center; background-color: white;"><a title="Radiation Detection"
-                      href="Detection.html"><img alt="radiation detection" style="width: 224px; height: 224px;"
-                        title="radiation detection" src="Callanpictures/IMG_20170628_104744.jpg"></a></div>
+                <td style="width: 50%; background-color: transparent;">
+                  <h4 style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><span
+                        style="font-weight: bold;">Nuclear <br>
+                      </span></a></h4>
+                  <h4 style="text-align: center;"><a title="Nuclear Security" href="NuclearSecurity.html"><span
+                        style="font-weight: bold;">Security</span></a></h4>
+                  <h4 style="  text-align: center;"><a title="Nuclear Security"
+                      href="NuclearSecurity.html"><span style="font-weight: bold;"></span></a><a
+                      title="Nuclear Security" href="NuclearSecurity.html"><img
+                        alt="nuclear security" style="width: 224px; height: 221px;"
+                        title="nuclear security" src="picturesnick/3dcropped.PNG"></a></h4>
                 </td>
               </tr>
             </tbody>
